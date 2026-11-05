@@ -116,3 +116,12 @@ Base: `base-de-dados/ciencia-e-misterios/2026-11-live-3i-atlas-carol-capel.md`.
 - [NASA's Webb finds clues to ancient, distant origin of comet 3I/ATLAS – NASA Science](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/)
 - [Registro no NASA Technical Reports Server](https://ntrs.nasa.gov/citations/20260007639)
 - [Astrobiology.com – resumo do estudo](https://astrobiology.com/2026/03/27/isotopic-signature-of-organic-molecules-from-beyond-the-solar-system-an-enriched-methane-d-h-ratio-in-the-interstellar-object-3i-atlas/)
+
+## O Medo e a Pergunta (Capítulo XVI)
+
+Base: `base-de-dados/filosofia/descartes-icke-medo-e-decisao.md` (texto fornecido pelo autor do projeto).
+
+- [Descartes' Ethics – Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2025/entries/descartes-ethics/)
+- [As Paixões da Alma, artigo 45 – Superphysics](https://www.superphysics.org/research/descartes/passions/article-045/)
+- [Tannenbaum et al. (2015), meta-análise sobre apelos ao medo – PubMed](https://pubmed.ncbi.nlm.nih.gov/26501228/)
+- [Tales from the Time Loop – Google Books](https://books.google.com/books/about/Tales_from_the_Time_Loop.html?id=HbZofEJqvb8C)

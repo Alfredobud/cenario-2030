@@ -16,3 +16,4 @@ Material bruto e fichamentos de fontes (vídeos, lives, artigos, documentos) usa
 | [`brasil/`](brasil/) | Segurança pública, defesa, IA militar e posição internacional do Brasil | [`2026-simposio-gesec-adepol.md`](brasil/2026-simposio-gesec-adepol.md) |
 | [`global/`](global/) | Situação global: EUA, Europa, Rússia/Ucrânia, Irã, China/BRICS, vistos por analistas brasileiros | [`2026-10-podcast-tres-irmaos-farinazzo.md`](global/2026-10-podcast-tres-irmaos-farinazzo.md) |
 | [`ciencia-e-misterios/`](ciencia-e-misterios/) | Ciência real usada como matéria-prima de mistério (objetos interestelares, astronomia) | [`2026-11-live-3i-atlas-carol-capel.md`](ciencia-e-misterios/2026-11-live-3i-atlas-carol-capel.md) |
+| [`filosofia/`](filosofia/) | Medo, percepção e decisão (Descartes × Icke) | [`descartes-icke-medo-e-decisao.md`](filosofia/descartes-icke-medo-e-decisao.md) |
