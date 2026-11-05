@@ -47,3 +47,9 @@ Principais achados da leitura: os pelos do "skinwalker" deram **cachorro domést
 - [New UFO files show bizarre drawings – Newsweek](https://newsweek.com/new-ufo-files-released-show-bizarre-drawings-of-alleged-aliens-12611389)
 - [DIA paid $22 million to chase UFOs and werewolves – The Debrief](https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/)
 - [Pentagon releases 1500 pages of UFO documents – Metabunk](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)
+
+## Anomalia do Atlântico Sul (Capítulo IX)
+
+- [Swarm probes weakening of Earth's magnetic field – ESA](https://www.esa.int/Applications/Observing_the_Earth/Swarm/Swarm_probes_weakening_of_Earth_s_magnetic_field)
+- ['Vigorous' magnetic field oddity spotted over South Atlantic – Live Science](https://livescience.com/weakening-magnetic-field-satellites.html)
+- [Is the South Atlantic Anomaly Splitting in Two? – Spaceweather Archive](https://spaceweatherarchive.com/2020/05/27/is-the-south-atlantic-anomaly-splitting-in-two/)
