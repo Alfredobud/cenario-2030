@@ -72,7 +72,7 @@ Naquela noite, Klaus abre um mapa. O avô morreu num submarino no Atlântico Nor
 
 Inês e Tiago Moura fazem as contas pela décima vez. Com dois salários, não conseguem comprar um T2 em Lisboa. A previdência, dizem os jornais, não vai pagar a geração deles como pagou a dos pais. Os protestos em Paris aparecem na televisão do café.
 
-Uma colega brasileira de Inês no hospital, Mariana Alves, comenta que vai voltar para o Brasil. Já não aguenta os olhares no metrô desde que um partido começou a falar em "imigração descontrolada". *"Começaram pelos outros. Depois chegam à gente"*, ela diz.
+Uma colega brasileira de Inês no hospital, Mariana Alves, comenta que vai voltar para o Brasil. Já não aguenta os olhares no metrô desde que um partido começou a falar em "imigração descontrolada". *"Começaram pelos outros. Depois chegam à gente"*, ela diz. Desde maio de 2026, a nova lei portuguesa exige sete anos de residência para brasileiros pedirem a nacionalidade, e os filhos de imigrantes nascidos em Portugal deixaram de ser portugueses automaticamente.
 
 Tiago pesquisa vistos. Descobre que no Brasil **quem nasce no país é brasileiro**, independentemente da origem dos pais, e que um europeu com formação consegue visto de trabalho e residência sem grande dificuldade. Inês está grávida de quatro meses.
 
@@ -94,13 +94,13 @@ Os Van Dijk perdem a licença de expansão do gado por causa das novas regras de
 
 Em novembro de 2026, o Paraguai tinha vivido a quebra do Ueno Bank e a renúncia do presidente. Em 2028, o "Inverno Guarani" continua: bancos médios enfrentam saques e comerciantes exigem dólar ou real em espécie.
 
-Os Van Dijk chegam a Assunção, fazem as contas e cruzam a fronteira. Compram terra perto de **Cascavel (PR)**: o mesmo clima e o mesmo tipo de solo, com um sistema bancário que lhes parece mais seguro. Na imobiliária, os anúncios já estão em alemão e holandês.
+Os Van Dijk chegam a Assunção, fazem as contas e cruzam a fronteira. Compram terra perto de **Cascavel (PR)**: o mesmo clima e o mesmo tipo de solo, com um sistema bancário que lhes parece mais seguro. Na imobiliária, os anúncios já estão em alemão e holandês. Lá descobrem também a lei de 1971: como estrangeiros residentes, podem comprar, mas áreas maiores dependem de autorização do INCRA, e em abril de 2026 o STF tinha confirmado essas restrições por unanimidade. A compra leva oito meses.
 
 Nos grupos de WhatsApp da região, o boato chega antes deles: *"Os holandeses sabiam o que estavam comprando."* Alguém compartilha o vídeo do "corralito digital" (Capítulo XI), e outra pessoa, o das "micronações nazistas" (Capítulo II). O filho caçula dos Van Dijk é chamado de "nazistinha" na escola.
 
 ### Capítulo 6: Pomerode
 
-Klaus e Anke Becker chegam a Pomerode em fevereiro. A cidade os recebe com estranheza: são alemães, mas não *daqueles* alemães. Os moradores descendem de imigrantes de 1860, falam um alemão antigo, comem cuca e não entendem por que um engenheiro de Wolfsburg trocaria a Alemanha pelo Vale do Itajaí.
+Klaus e Anke Becker chegam a Pomerode em fevereiro. A cidade os recebe com estranheza: são alemães, mas não *daqueles* alemães. Os moradores descendem de imigrantes da Pomerânia chegados a partir de 1861, falam pomerano (língua cooficial da cidade desde 2017 e quase extinta na Europa) e um alemão antigo, comem cuca e não entendem por que um engenheiro de Wolfsburg trocaria a Alemanha pelo Vale do Itajaí.
 
 Num café, Klaus conta ao vizinho a história do avô submarinista: *"Ele nunca foi à Antártida. Mas agora meu neto, que ficou na Alemanha, acha que ele foi."* (Capítulo VII).
 
@@ -122,7 +122,7 @@ Na Rússia de 2028, os estrangeiros chegam aos milhares, não aos milhões. São
 
 ### Capítulo 9: o Brasil que sai
 
-Mariana Alves volta a Curitiba. Não é a única: em 2028, o fluxo de **brasileiros voltando da Europa** é maior que o de europeus chegando ao Brasil, mas não vira manchete.
+Mariana Alves volta a Curitiba. Os pedidos de ajuda para voltar, registrados pela Organização Internacional para as Migrações, já tinham subido 52% em 2026. Ela não é a única: em 2028, o fluxo de **brasileiros voltando da Europa** é maior que o de europeus chegando ao Brasil, mas não vira manchete.
 
 Ao mesmo tempo, famílias brasileiras de classe média vão para a **Flórida**, "enquanto o Brasil não muda". O exílio da oposição em Miami (Capítulo XII) vira referência para esse público. Uma reportagem mostra os três movimentos na mesma semana: *"O Brasil que sai, o Brasil que volta e o Brasil que chega"*.
 
@@ -175,9 +175,9 @@ Bruna Sato, a astrônoma, grava um vídeo de três minutos explicando a anomalia
 | Indicador (ficcional) | 2030 |
 |---|---|
 | Europeus fixados no Brasil (2027–2030) | 350 a 600 mil, metade com menos de 40 anos |
-| Brasileiros que voltaram da Europa no mesmo período | Mais de 700 mil |
+| Brasileiros que voltaram da Europa no mesmo período | Cerca de 150 a 250 mil (no fim de 2025 havia entre 494 mil e 574 mil brasileiros só em Portugal) |
 | Brasileiros que foram para os EUA no mesmo período | Cerca de 300 mil |
-| Europeus fixados na Rússia | Cerca de 100 mil, com forte uso simbólico |
+| Europeus fixados na Rússia | Entre 5 e 15 mil (em 2025 foram emitidos cerca de 1.100 vistos de "valores tradicionais"), com forte uso simbólico |
 | Destinos principais no Brasil | SC, PR, MS, interior de SP, GO e o litoral nordestino |
 | Filhos de europeus nascidos no Brasil (brasileiros de nascimento) | Cerca de 40 mil |
 
@@ -232,3 +232,9 @@ Anke desliga a TV e pergunta a Klaus: *"Quem escolheu essa pergunta?"*
 8. **Uma fonte europeia direta**, um europeu falando de si mesmo, e não um brasileiro falando da Europa. Toda a base sobre a Europa é, até agora, de comentaristas brasileiros.
 9. **A desinformação por IA (deepfakes) nas eleições de 2030.** Aparece em vários capítulos, mas sem base factual sobre o que já existe hoje.
 10. **A Argentina:** vizinha, destino possível de europeus (Bariloche, Patagônia) e citada no simpósio pelo Cel. Camille, mas ausente da base.
+
+### Atualização: lacunas pesquisadas
+As lacunas acima foram pesquisadas em novembro de 2026. Os resultados estão em `base-de-dados/` (ver a seção "Lacunas pesquisadas" em `base-de-dados/README.md`). Correções já aplicadas a este livro: o número de europeus na Rússia (de cerca de 100 mil para 5 a 15 mil), o de brasileiros que voltam da Europa (de mais de 700 mil para 150 a 250 mil), a nova lei portuguesa (cap. 2), a lei de terras e a decisão do STF (cap. 5), os dados da OIM (cap. 9) e o pomerano em Pomerode (cap. 6).
+
+**Ainda em aberto:** o resultado dos midterms, a data real do fim (ou não) da guerra com o Irã, a revalidação específica de enfermagem, um depoimento europeu direto e a imigração europeia para a Patagônia.
+
