@@ -188,13 +188,18 @@ Em **23 de outubro de 2026**, o Departamento de Guerra dos EUA publicou a **sét
 
 O relatório descreve as visitas de março e abril de 2010 a uma propriedade perto de Fort Duchesne, em Utah, cujo nome aparece tarjado. Ela é amplamente identificada como o **Rancho Skinwalker**. O documento traz mais de 25 entrevistas com moradores, policiais e membros de comunidades indígenas, relatos de criaturas parecidas com lobos que andariam em duas pernas, de esferas de luz vermelha e de uma "mulher que flutuava", além da instalação de **sete câmeras**.
 
-O relatório **não apresenta imagens conclusivas** nem análises laboratoriais finais. O governo confirmou que a investigação existiu. Não confirmou que os fenômenos existem.
+O relatório **não apresenta imagens conclusivas** de nenhuma criatura. O governo confirmou que a investigação existiu. Não confirmou que os fenômenos existem.
+
+O detalhe que quase ninguém leu está nas páginas 36 e 37: **o resultado do DNA dos pelos**. O pelo preso no arame farpado, atribuído ao "skinwalker", deu **cachorro doméstico**, com a mesma sequência dos pelos de controle dos cães da própria propriedade, que "correm soltos" por ali, segundo o relatório. O pelo encontrado na rocha manchada de vermelho no alto da mesa deu **guaxinim**. A própria equipe da BAASS escreveu que o resultado "não seria fora do comum".
 
 ### 2. Como o documento vira outra coisa
 
 Em menos de uma semana, a leitura popular no Brasil transformou o documento em prova de que "era tudo real". Uma live típica daquele outubro seguia este roteiro:
 
 - *"O governo confirmou."* (Confirmou a investigação, não as criaturas.)
+- *"Nenhuma análise conclusiva do pelo."* (Houve análise, e ela foi conclusiva: cachorro e guaxinim.)
+- *"Sinais eletromagnéticos sem relação com satélites ou uso militar."* (O relatório diz o contrário: as faixas são reservadas a satélites de navegação, radiolocalização e uso militar, e pede investigação dos horários de transmissão de satélites.)
+- *"Encontraram plantas geneticamente modificadas."* (A equipe levou plantas-sensoras, tabaco e trapoeraba, usadas como detectores de mutação. Duas semanas depois, nenhuma mancha tinha aparecido.)
 - *"Bigelow era uma empresa de fachada do Pentágono."* (Era uma empresa contratada, com contrato público de cerca de US$ 22 milhões entre 2008 e 2010.)
 - *"Eles esconderam a compra de 1996 até 2010."* (A propriedade do instituto de Bigelow era pública desde os anos 1990 e virou livro em 2005.)
 - *"Liberaram só PDF e no meio de outros 27 arquivos para ninguém ler. O cão é muito bem articulado."*
@@ -236,18 +241,24 @@ Em 2030, a revelação oficial e a conspiração convivem sem se contradizer. Ca
 
 ### Âncoras reais do Capítulo VIII
 
-| Elemento | Status |
+Checagem feita na leitura direta do documento DOW-UAP-D174, *Utah Ranch Investigation Report*, de abril de 2010 (60 páginas).
+
+| O que a live afirmou | O que o documento diz |
 |---|---|
-| Sétima leva de arquivos UAP do Departamento de Guerra (23/10/2026, 28 arquivos) | **Real** |
-| Relatório *Utah Ranch Investigation* da BAASS, visitas em mar–abr/2010, mais de 25 entrevistas, sete câmeras | **Real**, segundo a cobertura da imprensa |
-| Relatório sem imagens conclusivas e sem confirmação dos fenômenos | **Real**, segundo a cobertura |
-| Bigelow comprou o rancho em 1996 (cerca de US$ 200 mil) e vendeu em 2016 para Brandon Fugal | **Real** |
-| Contrato AAWSAP da DIA com a BAASS (cerca de US$ 22 milhões, 2008–2010) | **Real**. A DIA faz parte do Departamento de Defesa, então não houve "primeiro a DIA, depois o Pentágono". |
-| Compra de 1996 "escondida até 2010" | **Falso.** A posse do instituto de Bigelow era pública e foi tema do livro *Hunt for the Skinwalker* (2005). |
-| "Pentágono autorizou qualquer experimento, independentemente das consequências" | **Sem confirmação** na cobertura do documento |
-| Empresa "Zeta Reticuli Inc." com Bigelow e Lazar | **Não verificado** |
-| Picos de "1210 a 1238 µHz" e "plantas geneticamente modificadas" | **Não verificado.** Constam da live, não da cobertura consultada. |
-| Lenda navajo do skinwalker; Utah tem nome derivado do povo ute | **Real** (folclore e etimologia) |
-| "Maldição navajo contra os utes" como origem das anomalias | **Folclore** popularizado por livros sobre o rancho |
-| Arquivos brasileiros de OVNIs no Arquivo Nacional | **Real** |
+| "O governo comprova que era tudo real" | O documento registra **relatos de testemunhas**. Não traz foto, vídeo nem prova física de criatura. |
+| 25 entrevistados, 11 viram o "lobo que não é lobo" | **Correto.** Os entrevistados incluem 4 policiais, 11 indígenas (entre eles um xamã), 12 fazendeiros e cerca de 15 membros da Igreja Mórmon. 11 pessoas relataram a criatura bípede e/ou orbes de luz. |
+| Larva gigante de 2 m | O relatório fala em uma larva de cerca de **8 pés (2,4 m)** de comprimento e 2 a 3 pés de diâmetro, citada como relato de testemunha. |
+| "Bruxa" que flutuava | Uma testemunha descreve uma criatura parecida com uma velha, de trapos, pulando de telhado em telhado, que **na cultura ute** é conhecida como a "Basket Lady". |
+| Mapa com três pontos de convergência | **Correto**, com uma ressalva do próprio relatório: os pontos "podem ser considerados arbitrários", porque supõem que as criaturas andaram em linha reta. Dois pontos ficam perto do reservatório de **Bottle Hollow**. |
+| Pelo de cor que "não condiz com nenhum animal" e "nenhuma análise conclusiva" | **Falso.** O DNA mitocondrial foi analisado em laboratório. Os pelos da cerca deram **cachorro doméstico**, provavelmente o mesmo cão da propriedade. O pelo da rocha deu **guaxinim**. |
+| Picos de "1210 a 1238 microHz", sem relação com satélite, navegação ou uso militar | **Erro duplo.** A unidade é **megahertz (MHz)**, não microhertz. E o relatório diz que essas faixas (1164–1240 MHz) são reservadas a satélites de observação da Terra, **navegação por satélite**, radiolocalização e **uso principalmente militar**. Pede mais pesquisa sobre horários de transmissão de satélites. |
+| "Encontraram plantas geneticamente modificadas" | **Inverteu o sentido.** A equipe **levou** plantas de tabaco e trapoeraba que servem como biossensores de mutação (técnica conhecida da literatura científica). Após duas semanas, "nenhuma observação ou análise pode ser feita", e nenhuma mancha de mutação estava presente. |
+| "Jogos para estabelecer comunicação" | **Correto.** Está no resumo: "iniciar uma variedade de jogos, quebra-cabeças e outras estratégias para estabelecer comunicação com a fonte/origem das anomalias relatadas". |
+| Esfera vermelha: calor, apito, dormência, cheiro de lama podre | **Correto**, como relato de uma testemunha. Sem queimadura, sem vermelhidão, sem efeito nos olhos, dormiu bem naquela noite. |
+| "Portal" | Uma moradora diz ter visto, **20 anos antes**, uma "parede" transparente que ondulava como onda de calor, com 9 a 12 m de altura, e que só lhe trouxe paz. Ela contou que só soube o que era um portal **depois de ler o livro sobre o rancho**. |
+| "Pentágono autorizou qualquer experimento, independentemente das consequências" | **Não está no documento.** |
+| Bigelow, Bob Lazar e a empresa "Zeta Reticuli" | **Não está no documento.** Não verificado. |
+| Compra de 1996 "escondida até 2010" | **Não está no documento** e é falso: a posse do instituto de Bigelow era pública, e virou o livro *Hunt for the Skinwalker* (2005). |
+| Contrato AAWSAP da DIA com a BAASS | **Real** (cerca de US$ 22 milhões, 2008–2010). A DIA faz parte do Departamento de Defesa. |
+| Bigelow vendeu o rancho em 2016 para Brandon Fugal | **Real.** A live não menciona. |
 | Fazenda catarinense, família holandesa e PL da Revelação | **Ficção do cenário** |

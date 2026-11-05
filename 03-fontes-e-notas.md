@@ -35,7 +35,9 @@ Veredito da pesquisa: **não há evidência verificável** de que os mapas atrib
 
 ## Rancho Skinwalker e a sétima leva de arquivos UAP (Capítulo VIII)
 
-Base: transcrição de uma live do canal de Carol Capel (28/10/2026). O documento 174 em si não foi lido; a checagem usa a cobertura da imprensa.
+Base: transcrição de uma live do canal de Carol Capel (28/10/2026) e **leitura direta do documento DOW-UAP-D174** (*Utah Ranch Investigation Report*, abril de 2010, 60 páginas), fornecido em PDF.
+
+Principais achados da leitura: os pelos do "skinwalker" deram **cachorro doméstico** e **guaxinim** no DNA (p. 36–37); os sinais são em **MHz**, em faixas de satélite de navegação e uso militar, segundo o próprio relatório (p. 8–9); as plantas eram **biossensores levados pela equipe**, sem resultado após duas semanas (p. 29–32).
 
 - [US Department of War releases seventh batch of UAP documents – The News](https://thenews.com.pk/latest/1421048-us-department-of-war-releases-seventh-batch-of-uap-documents-what-to-know)
 - [Skinwalker Ranch owner calls Pentagon UAP file release "step in the right direction" – KSL](https://www.ksl.com:443/article/news/utah/science-and-tech/skinwalker-ranch-owner-calls-pentagon-uap-file-release-step-in-the-right-direction/51495405)
