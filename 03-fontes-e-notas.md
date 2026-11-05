@@ -125,3 +125,7 @@ Base: `base-de-dados/filosofia/descartes-icke-medo-e-decisao.md` (texto fornecid
 - [As Paixões da Alma, artigo 45 – Superphysics](https://www.superphysics.org/research/descartes/passions/article-045/)
 - [Tannenbaum et al. (2015), meta-análise sobre apelos ao medo – PubMed](https://pubmed.ncbi.nlm.nih.gov/26501228/)
 - [Tales from the Time Loop – Google Books](https://books.google.com/books/about/Tales_from_the_Time_Loop.html?id=HbZofEJqvb8C)
+
+## O Estreito e o Diesel (Capítulo XVII)
+
+Base: `base-de-dados/global/2026-guerra-ira-diesel-brasil.md` e informação do autor do projeto sobre o estado da guerra em novembro de 2026.

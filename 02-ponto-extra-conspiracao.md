@@ -96,6 +96,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | IA consultada sobre a "simulação" | "Ela sabe e foi proibida de dizer" (ver Capítulo XIV) |
 | Estudo real sobre o 3I/ATLAS | "Pedra de 12 bilhões de anos" e "sigilo de 75 anos da NASA" (ver Capítulo XV) |
 | Medo usado na política e no mistério | "Eles governam pelo medo", dito também com medo (ver Capítulo XVI) |
+| Guerra com o Irã e diesel caro | "A guerra é teatro das petrolíferas" (ver Capítulo XVII) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -980,3 +981,110 @@ Rafael Duarte, o delegado, anota a frase e a cola no monitor da delegacia.
 | Meta-análise de Tannenbaum et al. (2015) sobre apelos ao medo | **Real** |
 | Efeitos de enquadramento (Tversky e Kahneman, 1981) | **Real** |
 | Curso em Pomerode, planilhas dos comerciais e dos canais, a frase no monitor da delegacia | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra XVII: O Estreito e o Diesel (2026 → 2028)
+
+*Este capítulo parte da guerra real entre EUA e Irã, iniciada em 28/02/2026 e ainda em curso em novembro, e de seus efeitos medidos no Brasil: diesel, frete e fertilizantes. Mostra como uma guerra a 12 mil km chega à bomba de combustível, à lavoura e ao prato, e como cada camada vira narrativa. Fichamento em `base-de-dados/global/2026-guerra-ira-diesel-brasil.md`.*
+
+### 1. A guerra que chegou pela bomba (fato)
+
+Em **28 de fevereiro de 2026**, começa a guerra entre os EUA e o Irã. O Irã fecha o **Estreito de Ormuz**, um corredor de 33 km de largura entre o Golfo Pérsico e o Golfo de Omã, por onde passa cerca de **um quinto do petróleo do mundo**.
+
+No Brasil, os números aparecem antes das explicações:
+- o preço médio do diesel sobe de **R$ 6,03 para R$ 7,28** nas primeiras semanas, segundo um levantamento, e a ANP registra **+12,8%**;
+- na refinaria privada de Mataripe, na Bahia, o diesel sobe **87%**, enquanto a Petrobras reajusta **12%**;
+- o petróleo passa de **US$ 100** em abril;
+- cada 10% de alta no combustível encarece o frete rodoviário entre **3,5% e 4,8%**, segundo estimativas;
+- o Brasil importa cerca de **95% dos fertilizantes nitrogenados**, e parte deles passa justamente pela região do Golfo.
+
+As negociações não andam:
+- em março, o Irã rejeita um plano americano de 15 pontos e apresenta cinco condições;
+- em maio, segundo o WSJ, os EUA apresentam sete condições, entre elas 20 anos sem enriquecer urânio;
+- **em novembro de 2026, a guerra continua**: o Irã apresenta uma lista de sete exigências e os EUA a recusam.
+
+### 2. Três explicações para o mesmo preço
+
+Na fila do posto em Cascavel (PR), em dezembro de 2026, três caminhoneiros discutem o preço:
+
+- **O primeiro** culpa a Petrobras: *"O petróleo é nosso, por que pagamos preço de guerra?"*
+- **O segundo** culpa a privatização: *"A refinaria privada subiu 87%, a da Petrobras 12%. Faz a conta."*
+- **O terceiro** mostra no celular um vídeo de um analista militar dizendo que o Irã "está ganhando a guerra" e que os EUA "tiveram que pedir diesel à Rússia".
+
+Os três estão parcialmente certos, e nenhum deles controla o preço.
+
+### 3. A camada de mistério
+
+Como em todos os capítulos anteriores, a guerra real alimenta narrativas paralelas:
+
+| Narrativa | O que afirma | O que há de fato |
+|---|---|---|
+| "A guerra é teatro" | EUA e Irã combinaram a guerra "para subir o petróleo e enriquecer as petrolíferas". | O preço alto beneficia produtores de petróleo, mas não há nenhuma evidência de combinação. A guerra tem mortos e navios atingidos. |
+| "O Irã já venceu" × "Os EUA já venceram" | Cada lado garante que o outro foi derrotado. | Em novembro de 2026, nenhum dos dois conseguiu impor seus termos. A guerra continua. |
+| "Compre ouro antes do colapso" | O diesel caro seria o início do "colapso do dólar". | O mesmo roteiro de venda dos Capítulos XI e XVI: medo + produto. |
+| "Os fertilizantes vão acabar e virá a fome" | O Brasil teria "semanas" de estoque. | A dependência de importação é real (cerca de 95% dos nitrogenados). A data de "fim dos estoques" circula sem fonte. |
+
+### 4. 2027: a lavoura (ficção)
+
+Na fazenda dos Van Dijk, perto de Cascavel (cenário principal, cap. 5), a primeira safra brasileira da família coincide com o pior ano do diesel e da ureia.
+
+O pai, Pieter, faz as contas em euros, por hábito, e depois em reais, por necessidade. Na Holanda, deixou para trás uma briga com o governo por causa do **nitrogênio** dos excrementos do gado. No Brasil, a briga é para **conseguir** nitrogênio para a lavoura. *"Fugi do nitrogênio a mais e caí no nitrogênio a menos"*, diz à mulher, sem rir.
+
+A cooperativa da região compra fertilizante em grupo, divide frete e negocia prazo. É a mesma lógica das colônias menonitas do Chaco que eles tinham ido conhecer no Paraguai (base de dados, `comunidades/`).
+
+### 5. 2027: a estrada (ficção)
+
+Em maio de 2027, com o diesel no maior valor em quase uma década, grupos de caminhoneiros convocam uma paralisação pelas redes. O governo lembra da **greve de maio de 2018**, que parou o país por dez dias, e se antecipa:
+- reduz temporariamente os impostos sobre o diesel;
+- anuncia um "corredor de fertilizantes" com prioridade em portos;
+- e abre uma linha de crédito para transportadores autônomos.
+
+A paralisação acontece em pontos isolados e dura três dias. Nos grupos de WhatsApp, a mesma notícia tem três versões:
+- *"O governo cedeu"*;
+- *"A greve foi sabotada por infiltrados"*;
+- *"Era tudo combinado com as petrolíferas"*.
+
+O delegado Rafael Duarte, em Joinville (cenário principal), registra um aumento de **roubos de carga de diesel** e de adulteração de combustível. Ele nunca tinha visto esse crime tão de perto.
+
+### 6. 2027–2028: o Brasil na mesa (ficção, com precedente real)
+
+Em **2010**, o Brasil e a Turquia negociaram com o Irã a **Declaração de Teerã** sobre o urânio iraniano. O acordo foi rejeitado pelas potências na época, mas deixou um precedente.
+
+Em 2027, com os democratas no Congresso americano pressionando por uma saída (base de dados, `eua/2026-midterms.md`) e a guerra afetando o agronegócio brasileiro, o Itamaraty oferece de novo uma **mediação**, junto com a Turquia e o Paquistão.
+
+O gesto divide o Brasil, do mesmo modo que dividiram os comentaristas do livro:
+- para uns, é a **autonomia estratégica** de que falavam o Cmte. Farinazzo e o Prof. Vale: *"o Brasil finalmente joga, em vez de se alinhar"*;
+- para outros, é **alinhamento com o Irã** contra os EUA e Israel;
+- nos canais de conspiração, a mediação vira prova de que *"o Brasil já foi entregue ao eixo"*.
+
+A mediação não encerra a guerra, mas consegue o que o agronegócio precisava: um **corredor marítimo humanitário e comercial** para fertilizantes, negociado por seis meses. É pouco, mas é a primeira coisa concreta em um ano.
+
+### 7. A ligação com o resto do livro
+
+- **Cenário principal:** a guerra explica parte da crise europeia (energia cara, a segunda das três explicações) e parte das dificuldades dos europeus que chegam ao Brasil (diesel e fertilizantes caros na primeira safra).
+- **Capítulo XIII (Simpósio):** Breno Altman dizia que a América Latina é empurrada a ser "fornecedora de matérias-primas, grãos e proteína". A guerra mostra o outro lado: um país que exporta comida, mas **importa o fertilizante para produzi-la**.
+- **Capítulo XVI (O Medo e a Pergunta):** a pergunta *"Até quando vamos pagar a guerra dos outros?"* aparece nos comerciais de 2030 dos dois candidatos.
+
+### 8. Ainda sem fim
+
+No fim de 2028, Ormuz está parcialmente aberto, com escolta e seguros caríssimos. O diesel caiu, mas não voltou ao preço de 2025. O Brasil abriu duas fábricas de fertilizantes nitrogenados, anunciadas desde 2010 e nunca concluídas, e as duas atrasam.
+
+Pieter Van Dijk passa a pendurar na parede do galpão um mapa do Golfo Pérsico, ao lado do mapa do Paraná. Os vizinhos acham estranho. Ele explica: *"Agora eu planto nos dois."*
+
+*(continua)*
+
+### Âncoras reais do Capítulo XVII
+
+| Elemento | Status |
+|---|---|
+| Guerra EUA × Irã iniciada em 28/02/2026; Estreito de Ormuz fechado; cerca de 1/5 do petróleo mundial passa por ele | **Real** |
+| Guerra ainda em curso em novembro de 2026; o Irã apresenta sete exigências e os EUA recusam | **Real** (informação do autor do projeto, 5/11/2026; conteúdo das exigências a confirmar) |
+| Plano americano de 15 pontos e cinco condições iranianas (março); sete condições americanas (maio, segundo o WSJ) | **Real**, segundo reportagens |
+| Diesel de R$ 6,03 para R$ 7,28; ANP +12,8%; Mataripe +87% contra Petrobras +12%; petróleo acima de US$ 100 | **Real**, segundo reportagens de março e abril de 2026 |
+| Elasticidade do frete (3,5% a 4,8% por 10% de diesel) | **Estimativa** de setor |
+| Brasil importa cerca de 95% dos fertilizantes nitrogenados | **Real** (ordem de grandeza amplamente citada) |
+| Greve dos caminhoneiros de maio de 2018 | **Real** |
+| Declaração de Teerã (Brasil, Turquia e Irã, 2010) | **Real** |
+| Fábricas de fertilizantes nitrogenados anunciadas e não concluídas | **Real como histórico** (projetos da Petrobras paralisados na década de 2010); datas futuras são ficção |
+| Paralisação de 2027, mediação brasileira, corredor de fertilizantes, roubo de cargas em Joinville, o mapa na parede | **Ficção do cenário** |
