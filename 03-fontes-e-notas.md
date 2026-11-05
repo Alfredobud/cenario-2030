@@ -107,3 +107,12 @@ Base: fichamento `base-de-dados/eua/2026-10-27-live-fala-global-prof-vale.md` e 
 - Nick Bostrom, *Are You Living in a Computer Simulation?*, Philosophical Quarterly, 2003.
 - Mateus 7:6.
 - Os capítulos do Ponto Extra continuam em aberto: o autor indicou que há mais material a incorporar.
+
+## A Pedra Mais Velha que o Sol (Capítulo XV)
+
+Base: `base-de-dados/ciencia-e-misterios/2026-11-live-3i-atlas-carol-capel.md`.
+
+- [An enriched methane D/H ratio in the interstellar object 3I/ATLAS – arXiv:2603.20445](https://arxiv.org/abs/2603.20445)
+- [NASA's Webb finds clues to ancient, distant origin of comet 3I/ATLAS – NASA Science](https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/)
+- [Registro no NASA Technical Reports Server](https://ntrs.nasa.gov/citations/20260007639)
+- [Astrobiology.com – resumo do estudo](https://astrobiology.com/2026/03/27/isotopic-signature-of-organic-molecules-from-beyond-the-solar-system-an-enriched-methane-d-h-ratio-in-the-interstellar-object-3i-atlas/)

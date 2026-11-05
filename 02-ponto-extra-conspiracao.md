@@ -94,6 +94,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | Reeleição de Lula e oposição nos EUA | "Extração", "poder real" e "fraude na urna" (ver Capítulo XII) |
 | Debate real sobre segurança, IA militar e dependência | "As máquinas já decidem quem morre" (ver Capítulo XIII) |
 | IA consultada sobre a "simulação" | "Ela sabe e foi proibida de dizer" (ver Capítulo XIV) |
+| Estudo real sobre o 3I/ATLAS | "Pedra de 12 bilhões de anos" e "sigilo de 75 anos da NASA" (ver Capítulo XV) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -777,3 +778,100 @@ O episódio está marcado para depois das eleições de outubro de 2030.
 | Mateus 7:6 | **Texto bíblico** |
 | Uso massivo de IA no cotidiano em 2030 | **Projeção do cenário**, coerente com a tendência atual |
 | Podcast, transmissão de março de 2030, resposta do modelo, as cinco leituras, o texto de opinião e a votação de abril | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra XV: A Pedra Mais Velha que o Sol (2025 → 2030)
+
+*Este capítulo parte de um objeto real, o **3I/ATLAS**, o terceiro visitante interestelar já detectado, e de um estudo real do telescópio James Webb sobre a química dele. Mostra como, entre 2027 e 2030, a ciência e a indústria do mistério seguem caminhos paralelos sobre o mesmo dado. Fichamento completo em `base-de-dados/ciencia-e-misterios/2026-11-live-3i-atlas-carol-capel.md`.*
+
+### 1. O visitante (fato)
+
+Em **1º de julho de 2025**, o telescópio de rastreamento ATLAS, no Chile, detectou um objeto vindo de fora do sistema solar. Era o terceiro da história, depois de ʻOumuamua (2017) e Borisov (2019). Recebeu o nome **3I/ATLAS**.
+
+Durante a passagem dele, o mundo acompanhou cada detalhe:
+- uma **órbita retrógrada**, quase no plano dos planetas mas em sentido contrário;
+- uma **anticauda** apontando para o Sol;
+- vapor de **níquel** com pouco ferro;
+- a passagem por Marte, enquanto a sonda MAVEN perdia contato com a Terra;
+- a passagem por Júpiter, em março de 2026, a cerca de 53 milhões de km.
+
+Um astrônomo de Harvard, Avi Loeb, levantou publicamente a hipótese de tecnologia alienígena. A maioria dos astrônomos tratou o objeto como um cometa, mas um cometa muito estranho.
+
+Em dezembro de 2025, o **James Webb** apontou para a nuvem de gás em volta do objeto e mediu algo que nenhum cometa do sistema solar tinha mostrado nessa proporção: **metano com cerca de 14 vezes mais deutério** que o do cometa 67P. Isso indica que os gelos se formaram num ambiente gelado, pobre em elementos pesados e banhado de radiação cósmica, condições de **regiões muito antigas da galáxia**.
+
+O 3I/ATLAS seria, então, mais velho que o Sol. Uma cápsula do tempo.
+
+### 2. Novembro de 2026: duas notícias sobre a mesma pedra
+
+Na primeira semana de novembro de 2026, a mesma descoberta circulou de dois jeitos no Brasil.
+
+**Versão A**, num portal de ciência, com 40 mil leituras:
+> *"Gelo de cometa interestelar sugere origem em regiões antigas da galáxia. A medição do Webb mostra deutério em excesso no metano. Os autores alertam que a idade exata ainda é incerta."*
+
+**Versão B**, numa live, com 1,2 milhão de visualizações:
+> *"A pedra de 12 bilhões de anos! Passou a 53 km de Júpiter e não foi capturada! Tem níquel, que não existe na natureza! A NASA botou 75 anos de sigilo! E eu confirmei com o tarô que estão mentindo."*
+
+Todos os pontos da versão B têm um problema: a distância era de 53 **milhões** de km, o níquel é um elemento natural comum em meteoritos, o sigilo não tem fonte e o número de 12 bilhões não aparece nos estudos consultados. Mesmo assim, o núcleo dela, de que a pedra é anterior ao Sol, é **mais verdadeiro do que parece**.
+
+É o paradoxo deste capítulo: **a verdade já era espantosa e mesmo assim foi enfeitada.**
+
+### 3. 2027: a pedra vai embora, os estudos ficam
+
+Em 2027, o 3I/ATLAS já está longe demais para qualquer telescópio. A partir daí:
+
+- **A ciência** passa três anos trabalhando com os dados que conseguiu juntar. Saem dezenas de artigos sobre o deutério, a poeira, a polarização, a anticauda e a órbita. Cada um responde uma pergunta pequena. Nenhum vira notícia.
+- **A indústria do mistério** faz o caminho oposto: com a pedra fora de alcance, nada mais pode ser checado. Sai o curso *"Os Segredos do Viajante de 12 Bilhões de Anos"* em 8 módulos, um baralho de tarô temático e uma linha de cristais "carregados com a energia do 3I/ATLAS".
+
+Um astrônomo brasileiro que participa do levantamento do novo observatório Vera Rubin resume, numa entrevista em 2028:
+> *"A pior coisa que pode acontecer a um objeto científico é ele ir embora. A partir daí, a gente só pode responder com cálculos, e o mistério responde com o que quiser."*
+
+### 4. 2028: a pergunta dos 75 anos
+
+O boato do "sigilo de 75 anos da NASA" ganha vida própria. Em 2028, um projeto de lei estadual no Brasil pede que o governo "solicite oficialmente aos EUA as imagens sigilosas do 3I/ATLAS". O projeto é aprovado na comissão, mas nunca vai a plenário.
+
+Uma agência de checagem pede formalmente à NASA as imagens. A resposta lista **todas as imagens públicas** já divulgadas, com links. Nenhum sigilo é encontrado. A matéria da checagem tem 9 mil leituras. O vídeo dizendo que "a NASA respondeu com imagens falsas para esconder as verdadeiras" tem 2 milhões.
+
+### 5. A ligação com o Capítulo XIV
+
+O Capítulo XIV terminou com uma pergunta abstrata: *"O que há do lado de fora da simulação?"* O 3I/ATLAS é a resposta concreta mais próxima disso que a humanidade já teve.
+
+Não é "fora da simulação", mas é **fora de tudo que conhecíamos**: matéria que se formou antes do Sol, que viu estrelas nascerem e morrerem e que atravessou a galáxia até passar por aqui uma única vez. E nós a medimos, de verdade, com o melhor telescópio já construído.
+
+Em 2029, uma professora de física de Florianópolis usa o caso numa aula do ensino médio. Escreve no quadro duas colunas: **"O que medimos"** e **"O que dissemos que medimos"**. Pede aos alunos que preencham a segunda coluna com o que viram nas redes. A segunda coluna enche o quadro. A primeira tem três linhas.
+
+O vídeo da aula, gravado por um aluno, é o único conteúdo sobre o 3I/ATLAS que viraliza em 2029 **sem nenhuma informação falsa**.
+
+### 6. 2029–2030: o quarto visitante
+
+No fim de 2029, o **Observatório Vera Rubin**, no Chile, que começou a operar em 2025 justamente com a promessa de encontrar muitos objetos interestelares, detecta o **quarto visitante**.
+
+Desta vez, a notícia é dada de forma diferente: em menos de 24 horas, agências espaciais de vários países publicam juntas um painel aberto, com dados brutos, imagens e órbita atualizados em tempo real, acessível a qualquer pessoa. É a lição tirada da década anterior: **o que não é mostrado é preenchido por outro**.
+
+Funciona em parte. Os boatos aparecem do mesmo jeito, mas agora podem ser comparados, em tempo real, com os dados.
+
+No primeiro dia, uma live brasileira anuncia: *"Ele voltou! É o 3I/ATLAS de novo, disfarçado!"* No chat, um adolescente responde com um print do painel aberto: órbita diferente, velocidade diferente, direção diferente. A mensagem dele recebe 14 mil curtidas. A live encerra mais cedo.
+
+### 7. Epílogo do capítulo (o livro continua)
+
+O 3I/ATLAS segue viajando para fora do sistema solar. Daqui a milhares de anos, estará entre as estrelas de novo, carregando o mesmo gelo que se formou antes do Sol existir. Não sabe que passou por aqui. Não sabe que foi chamado de nave, de pedra de 12 bilhões de anos, de mentira da NASA ou de prova de Deus.
+
+Na Terra, ficou uma pergunta que não é astronômica: *por que uma verdade espantosa não nos basta?*
+
+*(continua)*
+
+### Âncoras reais do Capítulo XV
+
+| Elemento | Status |
+|---|---|
+| 3I/ATLAS, terceiro objeto interestelar, detectado em julho de 2025 | **Real** |
+| Órbita retrógrada com inclinação de cerca de 175° | **Real** |
+| Anticauda, vapor de níquel com pouco ferro, polarização incomum | **Reais como observação**, com explicações naturais em discussão |
+| Passagem por Júpiter em março de 2026 a cerca de 53 milhões de km, perto do raio da esfera de Hill | **Real** (ordem de grandeza). A coincidência foi apontada por Avi Loeb. |
+| Avi Loeb levantando a hipótese de tecnologia alienígena | **Real** |
+| Perda de contato da sonda MAVEN no fim de 2025 | **Noticiado.** Sem relação demonstrada com o objeto. |
+| Webb/NIRSpec mede D/H no metano de cerca de 3,3%, cerca de 14 vezes o do 67P; formação em ambiente frio, pobre em metais e com radiação intensa | **Real** (arXiv:2603.20445 e NASA) |
+| "12 bilhões de anos" | **Não confirmado** nas fontes consultadas |
+| "Níquel não ocorre na natureza", "53 km de Júpiter", "75 anos de sigilo" | **Falsos ou sem fonte** (ver fichamento) |
+| Observatório Vera Rubin, em operação desde 2025, com expectativa de detectar mais objetos interestelares | **Real** |
+| Curso, baralho de tarô e cristais temáticos; projeto de lei estadual; pedido de checagem à NASA; aula em Florianópolis; quarto objeto interestelar em 2029; painel aberto conjunto | **Ficção do cenário** |
