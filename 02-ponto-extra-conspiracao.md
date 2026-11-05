@@ -90,6 +90,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | EUA liberam arquivos de OVNIs em levas | "Liberam no meio do ruído para ninguém ler" (ver Capítulo VIII) |
 | Falhas de GPS no Sul do Brasil | "Portal sobre o Atlântico Sul" (ver Capítulo IX) |
 | Real forte leva famílias brasileiras a Orlando | "Sequestros na Disney que ninguém noticia" (ver Capítulo X) |
+| Quebra do Ueno Bank e renúncia de Peña no Paraguai | "O Paraguai foi o laboratório do corralito digital" (ver Capítulo XI) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -419,3 +420,88 @@ O custo real da lenda não recai sobre os parques. Recai sobre pessoas comuns: o
 | Túneis de serviço (*utilidors*) sob o Magic Kingdom | **Reais**. Servem à circulação de funcionários. |
 | Disney e Universal não publicam estatísticas de crianças perdidas | **Real** |
 | Vídeo de julho de 2029, "mãe mineira", pulseira GPS, funcionário haitiano exposto e os "4 mil vídeos" | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra XI: O Banco que Derrubou um Presidente (novembro de 2026 → 2030)
+
+*Este capítulo começa com fatos reais, noticiados na semana de 2 a 5 de novembro de 2026, e só depois passa para a projeção ficcional até 2030. A seção 1 traz o que a imprensa publicou, com as divergências entre as fontes indicadas.*
+
+### 1. O que aconteceu (fatos noticiados)
+
+**O banco.** O **Ueno Bank** era um dos maiores bancos do Paraguai e o principal banco digital do país, com cerca de **2,9 milhões de clientes**, segundo a Folhapress, num país de pouco mais de 6 milhões de habitantes. O grupo controlador é o **Grupo Vázquez**.
+
+**A intervenção.** O Banco Central do Paraguai (BCP) abriu o processo de resolução do banco depois de constatar que a **solvência tinha caído abaixo do mínimo legal**. Segundo o BCP, meses de investigação mostraram **empréstimos concedidos a empresas ligadas ao próprio grupo controlador**. No mesmo momento, o aplicativo, as transferências e os cartões de débito e crédito do banco pararam de funcionar. Quase 3 milhões de pessoas ficaram sem acesso ao dinheiro, e a imprensa argentina logo perguntou se era um "corralito".
+
+**A queda em dominó:**
+
+| Etapa | O que foi noticiado |
+|---|---|
+| Presidente do Banco Central renuncia | **Carlos Carvallo**, que antes de assumir o BCP, em 2023, havia dirigido a Financiera Ueno, a empresa que deu origem ao banco. Outras autoridades do BCP também saíram. |
+| Prisões | O número varia entre as fontes, de dois a oito diretores e executivos. Entre os detidos estariam o presidente do banco, Juan Manuel Gustale Cardoni, e o vice-presidente, Federico Miguel Vázquez Villasanti. Alguns se apresentaram voluntariamente. |
+| Bloqueio de bens | A Justiça ordenou embargos de **US$ 70 milhões e 1,62 trilhão de guaranis** sobre bens de diretores e das empresas acionistas (U Paraguay, U Holdings, Grupo Vázquez). |
+| Pressão política | A oposição acusou o governo de responsabilidade no **suposto desvio de fundos públicos** para o banco. Segundo o site chileno El Dínamo, **Santiago Peña foi acionista** da instituição. Um senador do próprio partido do presidente pediu a renúncia e avisou que apoiaria um julgamento político. |
+| Antes da queda | Peña tinha defendido a diretoria do Banco Central e pedido calma diante dos boatos. Um colaborador disse que o presidente estava "convencido da sua inocência". |
+| **Renúncia** | Em **5 de novembro de 2026**, enquanto a Câmara dos Deputados discutia abrir um processo de impeachment, **Santiago Peña anunciou a renúncia à Presidência**, dizendo que a decisão era necessária para "preservar a estabilidade institucional do país". |
+
+**O que ainda não está claro:** se Peña participou de alguma irregularidade (até agora são acusações, não condenação) e como será concluída a sucessão. Pela Constituição paraguaia, o vice-presidente, **Pedro Alliana**, é quem assume em caso de vacância, mas os detalhes formais ainda não tinham sido confirmados nas fontes consultadas.
+
+### 2. Por que importa para o Brasil (ainda real)
+
+- O Paraguai é vizinho direto e sócio do Brasil em **Itaipu**, com fronteira em **Foz do Iguaçu e Ciudad del Este**.
+- Centenas de milhares de **brasiguaios**, brasileiros e descendentes que vivem no Paraguai, muitos no agronegócio, têm dinheiro no sistema bancário paraguaio.
+- O colapso de um **banco digital** gigante acende um alerta sobre um modelo que também cresceu muito no Brasil.
+
+---
+
+### 3. A projeção (ficção do cenário, 2027–2030)
+
+#### 2027: o "Inverno Guarani"
+
+Os depósitos do Ueno começam a ser liberados em parcelas pelo fundo de garantia, mas o estrago está feito. Outros bancos médios enfrentam saques em massa. O governo de transição convoca uma reforma do sistema financeiro, e o tema domina a campanha das eleições de 2028.
+
+Em Ciudad del Este, comerciantes voltam a exigir pagamento em **dólar em espécie** ou em **real**. O real forte do cenário principal vira, na prática, uma segunda moeda na fronteira.
+
+#### A conexão com a migração europeia
+
+No cenário principal, o Paraguai era um dos destinos da Rota Atlântica: terra barata, impostos baixos e uma tradição de imigração alemã, com as colônias **menonitas** do Chaco, que existem de fato desde os anos 1920.
+
+Depois da crise do Ueno, famílias europeias que planejavam o Paraguai mudam de rota. O fluxo se desvia para o **Paraná e o Mato Grosso do Sul**, do lado brasileiro da fronteira, com o mesmo clima e o mesmo tipo de terra, mas com um sistema bancário visto como mais seguro. Em 2029, imobiliárias de Cascavel e Dourados anunciam em alemão e holandês.
+
+#### A camada conspiratória
+
+A crise real produz uma onda de narrativas falsas, como nos capítulos anteriores:
+
+- **"Os bancos digitais são uma armadilha."** O bloqueio do aplicativo do Ueno vira "prova" de que bancos digitais e moedas digitais de bancos centrais existem para "congelar o dinheiro do povo com um clique". Vídeos em português usam as imagens das filas em Assunção para vender ouro físico e "kits de dinheiro vivo", o mesmo discurso dos anúncios de metais que aparecem em podcasts de mistério.
+- **"Foi planejado."** Canais conspiratórios dizem que a quebra foi provocada para "testar um corralito" antes de aplicar o modelo no Brasil. Não apresentam nenhuma evidência, mas a frase *"o Paraguai foi o laboratório"* vira bordão em 2028.
+- **"O ouro escondido."** Os mitos do Capítulo II, sobre fugitivos nazistas e o túmulo de Hitler "num hotel de Assunção", que Brad Olsen repetiu na entrevista, ressurgem misturados à crise: *"o ouro sumido do banco foi para o mesmo lugar do ouro de Bormann"*. É pura invenção, desmentida pelos próprios registros do processo judicial, que mostram empréstimos a empresas relacionadas, e não barras de ouro.
+
+#### 2030: o retrato
+
+| Indicador (ficcional) | Situação em 2030 |
+|---|---|
+| Sistema bancário paraguaio | Reformado, com regras mais duras para empréstimos a empresas do próprio grupo controlador |
+| Real na fronteira | Usado como moeda paralela em Ciudad del Este e Pedro Juan Caballero |
+| Fluxo europeu | Desviado do Paraguai para o Paraná e o Mato Grosso do Sul |
+| Bancos digitais no Brasil | Banco Central brasileiro endurece as exigências de capital depois do "efeito Ueno" |
+| Conspiração | "O Paraguai foi o laboratório do corralito digital" vira um dos boatos mais compartilhados do Brasil |
+
+### 4. Epílogo do capítulo
+
+Diferente dos capítulos sobre a Antártida, portais e sequestros em parques, o Capítulo XI nasce de um fato real e verificável: um banco quebrou, um presidente caiu e milhões de pessoas ficaram sem acesso ao próprio dinheiro. A conspiração não era necessária para tornar a história dramática. Mesmo assim, ela aparece, porque oferece algo que a explicação real não oferece: um vilão único e um plano secreto. A explicação real (empréstimos dentro do próprio grupo, fiscalização falha e conflito de interesses) é mais banal e, por isso mesmo, mais difícil de compartilhar.
+
+### Âncoras reais do Capítulo XI
+
+| Elemento | Status |
+|---|---|
+| Intervenção do Banco Central do Paraguai no Ueno Bank por solvência abaixo do mínimo legal | **Real** (novembro de 2026) |
+| Cerca de 2,9 milhões de clientes sem acesso ao dinheiro, com aplicativo, transferências e cartões suspensos | **Real** |
+| Empréstimos a empresas ligadas ao grupo controlador (Grupo Vázquez) | **Real**, segundo o BCP |
+| Renúncia do presidente do BCP, Carlos Carvallo, ex-diretor da Financiera Ueno | **Real** |
+| Prisão de diretores e executivos do banco | **Real**. O número varia entre 2 e 8 conforme a fonte. |
+| Embargos de US$ 70 milhões e 1,62 trilhão de guaranis | **Real** |
+| Peña citado como ex-acionista; acusação de desvio de fundos públicos | **Real como acusação**. Não há condenação. |
+| Renúncia de Santiago Peña em 5/11/2026, durante a discussão de impeachment | **Real**, noticiada por vários veículos |
+| Vice-presidente Pedro Alliana como sucessor constitucional | **Previsão constitucional**. A posse não foi confirmada nas fontes consultadas. |
+| Colônias menonitas no Chaco paraguaio | **Real** |
+| "Inverno Guarani", desvio do fluxo europeu, real como moeda paralela e boatos de 2028 | **Ficção do cenário** |

@@ -69,3 +69,24 @@ Veredito da pesquisa: não há caso documentado do sequestro "com cabelo cortado
 - [Asda quashes child abduction rumours – Huddersfield Examiner](https://www.examiner.co.uk/news/west-yorkshire-news/asda-romanian-head-shave-child-5009504)
 - [Code Adam – NCMEC](https://www.missingkids.org/CodeAdam)
 - [Code Adam – Wikipedia](https://en.wikipedia.com/wiki/Code_Adam)
+
+## Crise do Ueno Bank e renúncia de Santiago Peña (Capítulo XI)
+
+Fatos de 2 a 5 de novembro de 2026. As fontes divergem no número de presos. A sucessão formal ainda não estava confirmada.
+
+- [Renunció el presidente de Paraguay Santiago Peña tras el escándalo de Ueno Bank – La Nación](https://www.lanacion.com.ar/el-mundo/renuncio-el-presidente-de-paraguay-santiago-pena-nid05112026/)
+- [Renunció Santiago Peña en medio del escándalo de Ueno Bank – Semana](https://www.semana.com/mundo/articulo/renuncio-santiago-pena-presidente-de-paraguay-en-medio-del-escandalo-de-ueno-bank/202634/)
+- [Por escándalo Ueno Bank: Santiago Peña renuncia – El Dínamo](https://www.eldinamo.cl/mundo/2026/11/05/por-escandalo-ueno-bank-santiago-pena-renuncia-a-la-presidencia-de-paraguay/)
+- [Santiago Peña renuncia após escândalo financeiro – Jornal de Brasília (Folhapress)](https://jornaldebrasilia.com.br/noticias/mundo/santiago-pena-presidente-do-paraguai-renuncia-apos-escandalo-financeiro/)
+- [Santiago Peña renuncia após escândalo financeiro – Jornal do Comércio](https://www.jornaldocomercio.com/internacional/2026/11/1269425-santiago-pena-presidente-do-paraguai-renuncia-apos-escandalo-financeiro.html)
+- [Santiago Peña renuncia após escândalo financeiro – TNH1](https://www.tnh1.com.br/noticia/nid/santiago-pena-presidente-do-paraguai-renuncia-apos-escandalo-financeiro/)
+- [Presidente de Paraguay renuncia tras quiebra del mayor banco privado – Colombia.com](https://colombia.com/actualidad/internacionales/renuncio-el-presidente-de-paraguay-santiago-pena-610319)
+- [Qué pasó con Ueno Bank: todos los detalles del colapso – La Nación](https://www.lanacion.com.ar/economia/que-paso-con-ueno-bank-en-paraguay-todos-los-detalles-del-colapso-que-puso-en-alerta-el-sistema-nid04112026/)
+- [¿Es un corralito? Intervención del Ueno Bank – La Nación](https://www.lanacion.com.ar/economia/sacude-a-paraguay-un-escandalo-financiero-que-le-impide-a-casi-tres-millones-de-personas-acceder-a-nid04112026/)
+- [CEO de Ueno Bank se entrega y presidente del Banco Central renuncia – Diario Financiero](https://www.df.cl/empresas/multinacionales/crisis-bancaria-sacude-a-paraguay-renuncia-presidente-del-banco-central)
+- [Tormenta financiera y política en Paraguay – BioBioChile](https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/04/tormenta-financiera-y-politica-en-paraguay-que-se-sabe-de-la-polemica-intervencion-al-ueno-bank.shtml)
+- [De la intervención de un banco a la crisis política – La Tercera](https://www.latercera.com/mundo/noticia/de-la-intervencion-de-un-banco-a-la-crisis-politica-en-paraguay-el-caso-ueno-bank-que-golpea-al-gobierno-de-santiago-pena/)
+- [Detuvieron a dos directivos de Ueno Bank – MisionesOnline](https://misionesonline.net/2026/11/03/crisis-bancaria-en-paraguay/)
+- [Paraguay interviene Ueno Bank – Yahoo Noticias](https://es-us.noticias.yahoo.com/banco-central-paraguay-interviene-ueno-212824911.html)
+- [Ueno Bank: intervención, ahorros bloqueados y la renuncia – Excelsior](https://excelsior.com.mx/internacional/ueno-bank-que-paso-investigacion-renuncia-presidente-paraguay)
+- [¿Qué pasó en Paraguay con la intervención del Ueno? – La Nación (Costa Rica)](https://www.nacion.com/el-mundo/que-paso-en-paraguay-con-la-intervencion-del-ueno/BD5OJNT2JVET5O2HEUZIYSOQ24/story/)
