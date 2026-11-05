@@ -89,6 +89,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | Rússia recebe europeus tradicionalistas | "Moscou tem os mapas dos U-boats" (ver Capítulo VII) |
 | EUA liberam arquivos de OVNIs em levas | "Liberam no meio do ruído para ninguém ler" (ver Capítulo VIII) |
 | Falhas de GPS no Sul do Brasil | "Portal sobre o Atlântico Sul" (ver Capítulo IX) |
+| Real forte leva famílias brasileiras a Orlando | "Sequestros na Disney que ninguém noticia" (ver Capítulo X) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -333,3 +334,88 @@ O mapa conspiratório e o mapa geopolítico real acabam se sobrepondo. É no Atl
 | A faixa de 1215–1240 MHz, citada no relatório do Rancho Skinwalker, inclui sinais de navegação por satélite | **Real** (ver Capítulo VIII) |
 | Mapa de "entradas de Agartha" com ponto entre o Brasil e a Venezuela | **Real como mito**, mostrado na entrevista de Brad Olsen |
 | Apagão de 11/12/2030, navio sem identificação, vídeo de Lages, pacote "Noite do Portal" | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra X: Os Sapatos de Orlando (2029–2030)
+
+### 1. O vídeo
+
+Em **julho de 2029**, no auge das férias escolares brasileiras, um vídeo vertical de 58 segundos começa a circular em grupos de WhatsApp de mães e pais.
+
+O vídeo mostra:
+
+- uma mulher chorando na saída de um parque temático em Orlando, falando português com sotaque mineiro;
+- uma imagem tremida de câmera de segurança, com um homem de boné levando pela mão uma criança de cabelo raspado para dentro de um banheiro;
+- e o detalhe final, em close: **um par de tênis rosa com luzinhas**, *"o único jeito que eu tive de reconhecer minha filha"*.
+
+A legenda diz: *"Aconteceu semana passada. A Disney abafou. Compartilhe antes que apaguem."*
+
+### 2. A anatomia da lenda, versão 2029
+
+O vídeo segue o roteiro da lenda dos anos 1980 ponto a ponto: o sumiço, os portões fechados, o banheiro, o cabelo cortado e os sapatos. Ele acrescenta três elementos do seu tempo:
+
+| Elemento antigo | Versão de 2029 |
+|---|---|
+| "Aconteceu com a amiga de uma prima" | Uma "mãe real" chorando em vídeo, gerada por inteligência artificial |
+| Corrente de e-mail | Vídeo vertical com legenda automática e música de suspense |
+| "A Disney abafou" | "A Disney abafou, e o algoritmo está apagando" |
+
+Nenhuma emissora consegue localizar a família. Não há boletim de ocorrência no Gabinete do Xerife do Condado de Orange, nem registro consular no Itamaraty. A imagem da "câmera de segurança" tem um relógio que marca 25h14.
+
+### 3. Por que funcionou no Brasil
+
+O vídeo encontra o terreno preparado:
+
+- **O real forte** (cenário principal, 2029) e a entrada de capital europeu tornaram Orlando mais acessível. A classe média brasileira volta aos parques em número recorde, e os brasileiros já estão entre os maiores grupos de turistas internacionais da cidade.
+- **Os capítulos anteriores** treinaram o público a ler o silêncio oficial como confirmação: quanto mais a Disney nega, mais a história parece verdadeira.
+- **Os grupos de pais** são a rede de distribuição perfeita. O medo é legítimo, o compartilhamento parece um gesto de cuidado e ninguém quer ser "o pai que não avisou".
+
+Em três semanas, agências de turismo de São Paulo e Belo Horizonte registram cancelamentos. Uma rede de lojas lança uma "pulseira GPS anti-sequestro para parques", que esgota.
+
+### 4. A resposta
+
+- **A Disney** repete a frase que usa desde o ano 2000: nenhuma criança foi sequestrada no Walt Disney World. Explica o protocolo **Code Adam**, de busca imediata por qualquer pessoa desaparecida. A nota é lida como "versão corporativa".
+- **Agências de checagem brasileiras** mostram que a "mãe" do vídeo é a mesma pessoa de outro vídeo falso, de 2028, sobre um sequestro num shopping de Lisboa, com a mesma blusa, o mesmo choro e o mesmo sotaque.
+- **O Consulado do Brasil em Miami** divulga um guia prático: fotografar os filhos todo dia na entrada do parque, combinar um ponto de encontro e procurar qualquer funcionário em caso de desaparecimento. É o conteúdo mais útil de toda a história, e o menos compartilhado.
+
+### 5. A camada conspiratória
+
+A lenda não fica sozinha por muito tempo. Os canais conspiratórios a conectam aos capítulos anteriores:
+
+- *"Por que tantos túneis embaixo da Disney?"* Os túneis de serviço do Magic Kingdom, os chamados *utilidors*, existem de fato e servem para funcionários circularem sem aparecer para o público. Na versão conspiratória, viram rota de tráfico.
+- *"A Flórida é o estado onde o Adam Walsh foi levado."* Um caso real e trágico de 1981, sem nenhuma relação com parques, é usado como "prova histórica".
+- *"Esse é o verdadeiro motivo das levas de documentos (Capítulo VIII): distrair do tráfico."*
+
+O ponto mais perigoso vem no fim de 2029. Um grupo de pais brasileiros em Orlando fotografa um funcionário do parque que "parecia suspeito" e publica o rosto dele. A foto viraliza. O homem, um imigrante haitiano que trabalhava no setor de limpeza, é afastado durante a investigação interna, que não encontra nada. Ele não volta ao emprego.
+
+### 6. 2030: a lenda vira estatística falsa
+
+Em 2030, a frase *"desaparecem X crianças por ano na Disney"*, com um número diferente a cada versão, aparece em mais de 4 mil vídeos em português. Nenhum cita fonte. Os parques não publicam números de crianças perdidas por ano, e esse vazio é preenchido com invenção.
+
+Na viagem de volta, numa fila de embarque no aeroporto de Orlando, uma mãe brasileira comenta com outra:
+
+> *"Graças a Deus não aconteceu nada. Eu não tirei os olhos dela um segundo."*
+>
+> *"Nem eu. Mas sabe que a minha prima conhece uma moça que..."*
+
+### 7. Epílogo do capítulo
+
+O Capítulo X mostra a conspiração no nível mais íntimo. Ela não fala de geopolítica, Antártida ou portais, e sim do medo de perder um filho. Por isso é a mais difícil de desmentir: ninguém quer arriscar estar errado sobre isso.
+
+O custo real da lenda não recai sobre os parques. Recai sobre pessoas comuns: os pais que passam as férias em pânico, o funcionário cujo rosto foi exposto e as famílias de crianças que realmente desaparecem em outros lugares, cujos alertas verdadeiros se perdem no meio do ruído.
+
+### Âncoras reais do Capítulo X
+
+| Elemento | Status |
+|---|---|
+| Lenda do sequestro no parque com cabelo cortado no banheiro e criança reconhecida pelos sapatos | **Real como lenda**, circula desde os anos 1980 e já foi desmentida por Snopes, Lead Stories e outros |
+| Disney: "Nenhuma criança jamais foi sequestrada no Walt Disney World" | **Real**, declaração ao *Tampa Bay Times* (2000) |
+| Mesma lenda contada sobre shoppings, Walmart, Asda (Reino Unido) e parques na Malásia | **Real** |
+| Versão de 2023 sobre "túneis secretos" da Disneyland atribuída a Joe Rogan | **Real como boato**, desmentido |
+| Repórter de TV israelense suspenso por noticiar a lenda como fato | **Real** |
+| Protocolo **Code Adam** de busca por desaparecidos | **Real** |
+| Caso **Adam Walsh** (1981, Hollywood, Flórida), que deu nome ao programa | **Real**. Não teve relação com parques temáticos. |
+| Túneis de serviço (*utilidors*) sob o Magic Kingdom | **Reais**. Servem à circulação de funcionários. |
+| Disney e Universal não publicam estatísticas de crianças perdidas | **Real** |
+| Vídeo de julho de 2029, "mãe mineira", pulseira GPS, funcionário haitiano exposto e os "4 mil vídeos" | **Ficção do cenário** |

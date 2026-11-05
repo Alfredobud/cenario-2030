@@ -53,3 +53,19 @@ Principais achados da leitura: os pelos do "skinwalker" deram **cachorro domést
 - [Swarm probes weakening of Earth's magnetic field – ESA](https://www.esa.int/Applications/Observing_the_Earth/Swarm/Swarm_probes_weakening_of_Earth_s_magnetic_field)
 - ['Vigorous' magnetic field oddity spotted over South Atlantic – Live Science](https://livescience.com/weakening-magnetic-field-satellites.html)
 - [Is the South Atlantic Anomaly Splitting in Two? – Spaceweather Archive](https://spaceweatherarchive.com/2020/05/27/is-the-south-atlantic-anomaly-splitting-in-two/)
+
+## Lenda dos sequestros em parques de Orlando (Capítulo X)
+
+Veredito da pesquisa: não há caso documentado do sequestro "com cabelo cortado no banheiro" em parques de Orlando. A história é uma lenda urbana recorrente. O protocolo Code Adam e o caso Adam Walsh (1981) são reais. Disney e Universal não publicam estatísticas de crianças perdidas.
+
+- [These urban myths need good dose of skepticism – Tampa Bay Times (2000)](https://www.tampabay.com/archive/2000/04/09/these-urban-myths-need-good-dose-of-skepticism/)
+- [Theme Park Abduction Urban Legend Resurfaces in Malaysia – Snopes](https://www.snopes.com/news/2015/06/29/theme-park-abduction/)
+- [Snopes – lenda de sequestro em shopping (Westfield)](https://www.snopes.com/crime/warnings/westfield.asp)
+- [Fact Check: No Evidence for Disneyland Kidnapping Story – Lead Stories (2023)](https://leadstories.com/hoax-alert/2023/11/fact-check-no-evidence-disneyland-likely-to-be-closed-indefinitely.html)
+- [Fact Check: Joe Rogan did NOT talk about child abduction into Disneyland tunnels – Lead Stories](https://leadstories.com/hoax-alert/2023/11/fact-check-joe-rogan-did-not-talk-about-child-abduction-into-disneyland-secret-tunnels.html)
+- [Urban legend broadcast as news on Channel 10 – Times of Israel](https://www.timesofisrael.com/urban-legend-broadcast-as-news-on-channel-10/)
+- [Disney World Urban Legends – Hoaxes.org](https://hoaxes.org/weblog/comments/disney_world_urban_legends)
+- [Kidnapping Reported at Disney Park (debunked) – Inside the Magic](https://insidethemagic.net/2023/11/disneyland-kidnapping-debunked-story-jc1/)
+- [Asda quashes child abduction rumours – Huddersfield Examiner](https://www.examiner.co.uk/news/west-yorkshire-news/asda-romanian-head-shave-child-5009504)
+- [Code Adam – NCMEC](https://www.missingkids.org/CodeAdam)
+- [Code Adam – Wikipedia](https://en.wikipedia.com/wiki/Code_Adam)
