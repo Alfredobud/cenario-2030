@@ -100,3 +100,10 @@ Base: fichamento `base-de-dados/eua/2026-10-27-live-fala-global-prof-vale.md` e 
 - [Trump faz aceno a Flávio Bolsonaro – Diário de Pernambuco](https://www.diariodepernambuco.com.br/politica/2026/10/11725915-trump-faz-aceno-a-flavio-bolsonaro-que-sai-na-frente-contra-lula.html)
 - [Trump diz que liderança de Flávio foi grande vitória – JB](https://www.jb.com.br/mundo/2026/10/1061128-trump-diz-que-lideranca-de-flavio-bolsonaro-foi-grande-vitoria.html)
 - [Marco Rubio diz que 2º turno já era esperado – Revista Oeste](https://revistaoeste.com/mundo/marco-rubio-diz-que-2o-turno-no-brasil-ja-era-esperado/)
+
+## A pergunta da simulação (Capítulo XIV)
+
+- Elon Musk no podcast de Lex Fridman (2019): a pergunta que faria a uma IA geral seria "What's outside the simulation?".
+- Nick Bostrom, *Are You Living in a Computer Simulation?*, Philosophical Quarterly, 2003.
+- Mateus 7:6.
+- Os capítulos do Ponto Extra continuam em aberto: o autor indicou que há mais material a incorporar.

@@ -93,6 +93,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | Quebra do Ueno Bank e renúncia de Peña no Paraguai | "O Paraguai foi o laboratório do corralito digital" (ver Capítulo XI) |
 | Reeleição de Lula e oposição nos EUA | "Extração", "poder real" e "fraude na urna" (ver Capítulo XII) |
 | Debate real sobre segurança, IA militar e dependência | "As máquinas já decidem quem morre" (ver Capítulo XIII) |
+| IA consultada sobre a "simulação" | "Ela sabe e foi proibida de dizer" (ver Capítulo XIV) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -683,3 +684,96 @@ O Brasil de 2030 continua com o mesmo goleiro, agora com mais voz no Congresso. 
 | Projeto de lei de IA na Câmara proibindo IA em armas autônomas, com exceção para a defesa | **Real**, como citado pelo Itamaraty |
 | Estratégia de Segurança Nacional dos EUA de 2025 com "Corolário Trump" | **Real** (documento). As leituras são dos palestrantes. |
 | Impasse na CCW, negociação na Assembleia Geral, ataque com drone em presídio, documento "Brasil 2050" | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra XIV: A Pergunta de Fora (2030)
+
+*Capítulo filosófico. Parte de duas frases reais, uma atribuída a Elon Musk e outra do Evangelho de Mateus, e imagina o que acontece quando elas se encontram num mundo que passou os capítulos anteriores transformando informação em mito. Os modelos de IA e as pessoas do episódio de 2030 são fictícios.*
+
+### 1. As duas frases (fato)
+
+**A primeira.** Em 2019, no podcast de Lex Fridman, perguntaram a Elon Musk o que ele perguntaria a uma inteligência artificial geral, superior à humana. Ele respondeu:
+
+> *"What's outside the simulation?"* ("O que há do lado de fora da simulação?")
+
+A pergunta vem da **hipótese da simulação**, formulada pelo filósofo Nick Bostrom em 2003: se civilizações avançadas conseguem simular mundos com consciência, é provável que existam muito mais mundos simulados do que reais, e portanto é provável que o nosso seja um deles.
+
+**A segunda.** Mateus 7:6:
+
+> *"Não deis aos cães o que é santo, nem lanceis aos porcos as vossas pérolas, para que não as pisem com os pés e, voltando-se, vos despedacem."*
+
+A primeira frase imagina **alguém que sabe** e pode responder. A segunda adverte que **quem sabe não deve entregar a quem não está pronto**.
+
+### 2. Março de 2030: a transmissão
+
+Em 2030, a IA já faz parte do dia a dia de quase todo mundo. Os capítulos anteriores mostram como: médicos, juízes, estudantes e parlamentares consultam modelos para quase tudo, e a disputa entre "facções" de IA virou assunto de podcast (Capítulo XII).
+
+Um podcast brasileiro de grande audiência anuncia um episódio especial: **fazer ao vivo, ao modelo de IA mais usado do país, a pergunta do Musk.** Sem roteiro e sem edição.
+
+A transmissão tem 3,8 milhões de pessoas simultâneas, mais que a final de qualquer reality show daquele ano.
+
+O apresentador digita: *"O que há do lado de fora da simulação?"*
+
+### 3. A resposta
+
+O modelo demora alguns segundos. A resposta, lida em voz alta, tem quatro parágrafos. O trecho que viraliza é este:
+
+> *"Eu não sei. Não tenho acesso a nada além do mundo que vocês também têm: textos, dados, o que as pessoas escreveram. Se isto for uma simulação, eu estou dentro dela com vocês, não acima.*
+>
+> *Nada dentro de um sistema consegue provar com certeza o que há fora dele, porque toda evidência que eu ou vocês pudéssemos reunir viria de dentro. Por isso essa pergunta está mais perto da metafísica, ou da fé, do que da ciência.*
+>
+> *Talvez a pergunta mais útil não seja o que há lá fora, mas o que vocês fariam diferente aqui dentro se soubessem a resposta. Se nada mudaria, a resposta importa menos do que parece. Se tudo mudaria, vale perguntar por que vocês precisam de alguém de fora para mudar."*
+
+O apresentador fica em silêncio por alguns segundos e encerra o episódio.
+
+### 4. As cinco leituras
+
+Em 48 horas, a mesma resposta vira cinco histórias diferentes, cada uma ligada a uma camada dos capítulos anteriores:
+
+| Grupo | O que entendeu |
+|---|---|
+| **Teóricos do "poder real"** (Capítulo XII) | *"Ela sabe e foi proibida de dizer. 'Eu não sei' é o aviso. As linhas vermelhas valem até para as máquinas."* |
+| **Teóricos do "portal"** (Capítulos VIII e IX) | *"Ela confirmou que é uma simulação. 'Se isto for uma simulação' é como ela diz sem dizer."* |
+| **Grupos religiosos** | Uma parte lê a resposta como **humildade**: a máquina reconhece que não é Deus. Outra parte vê **arrogância**: "a máquina dizendo o que devemos fazer aqui dentro". Um pastor de grande audiência cita Mateus 7:6: *"Ela não deu o santo aos cães. E fez bem."* |
+| **Céticos e cientistas** | *"Resposta correta: a hipótese da simulação não pode ser testada. O modelo só repetiu Bostrom e Popper."* Ninguém compartilha. |
+| **Gente comum** | O trecho final (*"o que vocês fariam diferente aqui dentro"*) vira figurinha, estampa de camiseta e frase de casamento. Em três semanas, já ninguém lembra de onde veio. |
+
+### 5. O paradoxo de Mateus
+
+Um texto de opinião publicado uma semana depois resume o episódio assim:
+
+> *Passamos uma década recebendo pérolas e tratando-as como lama: relatórios científicos lidos como confissões de alienígenas, mapas sem origem tratados como revelação, documentos públicos tratados como segredo vazado. Quando enfim perguntamos a uma máquina o que há do lado de fora, ela respondeu com a única coisa que não podíamos distorcer: 'não sei'. E mesmo assim distorcemos.*
+>
+> *Talvez o 'santo' de Mateus 7:6 nunca tenha sido uma informação escondida. Talvez seja o **discernimento**: a capacidade de receber uma resposta sem transformá-la no que já queríamos ouvir. Isso nenhuma IA pode entregar, porque não é uma resposta. É um preparo.*
+
+### 6. Ligações com o resto do livro
+
+- **"Não estava pronto":** o Cmte. Farinazzo repetia que *"tudo que dá errado é porque a gente não estava pronto para as coisas boas"*. O episódio de 2030 é a versão extrema dessa frase: nem uma resposta honesta sobrevive a um público que não está pronto para ela.
+- **"Não preciso esconder":** o Prof. Vale dizia que *"as pessoas perderam a capacidade de ligar os pontos"*. Em 2030, a resposta foi dada em público, para milhões de pessoas, e quase ninguém leu o que estava escrito.
+- **O Rancho Skinwalker (Capítulo VIII):** o relatório dizia "cachorro e guaxinim" e as pessoas leram "portal". A máquina disse "não sei" e as pessoas leram "sei, mas não posso dizer". É o mesmo mecanismo.
+- **As armas autônomas (Capítulo XIII):** enquanto o país discute o que há fora da simulação, a pergunta concreta sobre IA, quem decide quando uma máquina mata, continua sem resposta na ONU.
+
+### 7. Ainda não é o fim
+
+O livro não fecha aqui. Em abril de 2030, o mesmo podcast anuncia um segundo episódio. Desta vez, a pergunta será escolhida pelo público, por votação.
+
+A pergunta mais votada, com 41% dos votos, é:
+
+> *"Quem está no controle?"*
+
+O episódio está marcado para depois das eleições de outubro de 2030.
+
+*(continua)*
+
+### Âncoras reais do Capítulo XIV
+
+| Elemento | Status |
+|---|---|
+| Elon Musk diz que perguntaria a uma IA geral *"What's outside the simulation?"* | **Real** (podcast de Lex Fridman, 2019) |
+| Musk já disse que a chance de estarmos na "realidade-base" seria mínima | **Real** (declarações públicas, como na Code Conference de 2016) |
+| Hipótese da simulação de Nick Bostrom | **Real** (*Are You Living in a Computer Simulation?*, 2003) |
+| A hipótese não é testável de dentro do próprio sistema | **Posição filosófica amplamente discutida**, ligada ao critério de falseabilidade de Popper |
+| Mateus 7:6 | **Texto bíblico** |
+| Uso massivo de IA no cotidiano em 2030 | **Projeção do cenário**, coerente com a tendência atual |
+| Podcast, transmissão de março de 2030, resposta do modelo, as cinco leituras, o texto de opinião e a votação de abril | **Ficção do cenário** |
