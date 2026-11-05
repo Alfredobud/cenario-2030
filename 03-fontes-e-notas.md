@@ -90,3 +90,13 @@ Fatos de 2 a 5 de novembro de 2026. As fontes divergem no número de presos. A s
 - [Paraguay interviene Ueno Bank – Yahoo Noticias](https://es-us.noticias.yahoo.com/banco-central-paraguay-interviene-ueno-212824911.html)
 - [Ueno Bank: intervención, ahorros bloqueados y la renuncia – Excelsior](https://excelsior.com.mx/internacional/ueno-bank-que-paso-investigacion-renuncia-presidente-paraguay)
 - [¿Qué pasó en Paraguay con la intervención del Ueno? – La Nación (Costa Rica)](https://www.nacion.com/el-mundo/que-paso-en-paraguay-con-la-intervencion-del-ueno/BD5OJNT2JVET5O2HEUZIYSOQ24/story/)
+
+## Reeleição de Lula e oposição no exílio (Capítulo XII)
+
+Base: fichamento `base-de-dados/eua/2026-10-27-live-fala-global-prof-vale.md` e cobertura da eleição de 2026. Os números do 2º turno vêm de uma única fonte; a confirmação oficial do TSE está pendente.
+
+- [Flávio Bolsonaro e Lula vão a 2º turno com menor diferença da história – DGABC](https://www.dgabc.com.br/Noticia/4350904/flavio-bolsonaro-e-lula-vao-a-2-turno-com-menor-diferenca-da-historia)
+- [Brasil vota em segundo turno acirrado – Times Brasil](https://timesbrasil.com.br/mundo/brasil-vota-em-segundo-turno-acirrado-entre-lula-e-bolsonaro/)
+- [Trump faz aceno a Flávio Bolsonaro – Diário de Pernambuco](https://www.diariodepernambuco.com.br/politica/2026/10/11725915-trump-faz-aceno-a-flavio-bolsonaro-que-sai-na-frente-contra-lula.html)
+- [Trump diz que liderança de Flávio foi grande vitória – JB](https://www.jb.com.br/mundo/2026/10/1061128-trump-diz-que-lideranca-de-flavio-bolsonaro-foi-grande-vitoria.html)
+- [Marco Rubio diz que 2º turno já era esperado – Revista Oeste](https://revistaoeste.com/mundo/marco-rubio-diz-que-2o-turno-no-brasil-ja-era-esperado/)

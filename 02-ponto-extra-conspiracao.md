@@ -91,6 +91,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | Falhas de GPS no Sul do Brasil | "Portal sobre o Atlântico Sul" (ver Capítulo IX) |
 | Real forte leva famílias brasileiras a Orlando | "Sequestros na Disney que ninguém noticia" (ver Capítulo X) |
 | Quebra do Ueno Bank e renúncia de Peña no Paraguai | "O Paraguai foi o laboratório do corralito digital" (ver Capítulo XI) |
+| Reeleição de Lula e oposição nos EUA | "Extração", "poder real" e "fraude na urna" (ver Capítulo XII) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -505,3 +506,109 @@ Diferente dos capítulos sobre a Antártida, portais e sequestros em parques, o 
 | Vice-presidente Pedro Alliana como sucessor constitucional | **Previsão constitucional**. A posse não foi confirmada nas fontes consultadas. |
 | Colônias menonitas no Chaco paraguaio | **Real** |
 | "Inverno Guarani", desvio do fluxo europeu, real como moeda paralela e boatos de 2028 | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra XII: O Exílio de Miami (outubro de 2026 → 2030)
+
+*Este capítulo começa com o que foi noticiado na semana da eleição de 2026 e depois passa à projeção ficcional. Pessoas reais aparecem só na base factual e em papéis políticos genéricos. Nenhum crime, plano ou fato novo é atribuído a elas.*
+
+### 1. A base real (outubro de 2026)
+
+| Fato | Situação nas fontes |
+|---|---|
+| **Lula reeleito** no 2º turno de 25/10/2026, para o quarto mandato (até 2030) | Uma reportagem dá 64,26 milhões (51,79%) contra 59,83 milhões (48,21%). Não achei confirmação oficial do TSE. |
+| Flávio Bolsonaro liderou o 1º turno, com cerca de 47% | Noticiado |
+| A disputa foi a mais apertada da história num 2º turno | Noticiado |
+| **Flávio está nos EUA** e diz que vai liderar a oposição de lá; nega ter fugido | Noticiado. As datas da saída divergem: uma fonte diz que ele já estava lá no dia do 2º turno, a live de 27/10 fala em saída na madrugada de terça. |
+| Flávio alegou fraude sem apresentar provas; o PL, partido dele, reconheceu o resultado | Noticiado (a primeira parte) e citado na live (a segunda) |
+| Eduardo Bolsonaro já vivia nos EUA havia mais de um ano | Real |
+| Trump fez acenos a Flávio durante a campanha e não tinha cumprimentado Lula até 27/10; Xi Jinping já tinha | A primeira parte foi noticiada. A segunda é citada na live, a verificar. |
+| Eleições de meio de mandato nos EUA em 3/11/2026 | Real (calendário) |
+
+A partir daqui, tudo é **ficção do cenário**.
+
+---
+
+### 2. 2027: a "Pequena Brasília" na Flórida
+
+O sul da Flórida já tinha uma das maiores comunidades brasileiras dos EUA, em Pompano Beach, Boca Raton, Orlando e Miami. Em 2027, ela ganha uma função nova: virar a **capital simbólica da oposição**.
+
+- Um escritório alugado em Doral funciona como estúdio. De lá saem lives diárias, entrevistas para canais brasileiros e reuniões por vídeo com deputados e senadores eleitos em 2026.
+- A imprensa brasileira passa a chamar o grupo de **"Pequena Brasília"**. Os apoiadores preferem "governo no exílio". Os adversários, "turma de Miami".
+- Restaurantes brasileiros da região viram ponto de encontro. Um deles pendura na parede um relógio com o horário de Brasília e outro com o de "Brasília livre".
+
+**A primeira tensão aparece cedo.** Em Washington, o governo americano trata os exilados com cortesia, mas sem compromisso. O Brasil continua sendo grande fornecedor de soja, minério e petróleo, e a China segue de olho. A frase que circula nos corredores diplomáticos resume a posição: *"asilo sim, palanque não"*.
+
+### 3. 2027–2028: o efeito dos midterms
+
+O cenário trabalha com um **Congresso americano dividido** depois de novembro de 2026. As consequências chegam à Flórida:
+
+- Projetos de lei sobre "perseguição política no Brasil" param nas comissões.
+- Audiências públicas sobre o Brasil passam a ter os dois lados: exilados e representantes do governo Lula.
+- O status migratório dos exilados continua garantido, mas **vira tema de campanha** para 2028. Um lado promete "proteger os perseguidos", o outro fala em "rever asilos políticos de conveniência".
+
+Em Brasília, o governo responde com uma estratégia simples: **não ter pressa**. Mantém o comércio com os EUA, aprofunda a parceria com a China e evita confrontos públicos que transformem os exilados em mártires.
+
+### 4. 2028: "você não está sofrendo aqui"
+
+O dilema previsto na própria live de 27/10/2026 se confirma: **liderar de longe exige resultados, e resultados não vêm**.
+
+- No Brasil, a oposição parlamentar enfrenta derrotas seguidas em votações, e líderes regionais crescem com agenda própria.
+- Nos grupos de WhatsApp da base, surge a frase que vira divisor de águas: *"Fácil falar de Miami. Quem apanha aqui somos nós."*
+- A disputa pela herança política se abre. De um lado, os nomes **que ficaram no Brasil** e têm mandato e máquina. De outro, os que **saíram**, com audiência digital mas sem presença física. Pesquisas de 2028 mostram que o eleitor de oposição continua fiel à causa, mas cada vez menos a um nome único.
+
+Ao mesmo tempo, a Flórida vira um ímã para outro tipo de brasileiro: famílias de classe média que se mudam "enquanto o Brasil não muda". O fluxo é pequeno em números, mas grande nas redes. É o mesmo público dos vídeos falsos sobre sequestros em parques (Capítulo X), que agora circulam também em grupos de imigrantes recém-chegados.
+
+### 5. A camada conspiratória
+
+O exílio é fértil para as narrativas dos capítulos anteriores:
+
+| Narrativa | O que afirma | O que há de fato |
+|---|---|---|
+| **"Extração"** | A saída de Flávio teria sido uma operação secreta dos EUA. | As datas e as versões divergem desde o primeiro dia. Nenhum documento oficial confirma. |
+| **"Poder real" e "linhas vermelhas"** | Uma elite invisível decide tudo e avisa quem passa do limite. | É uma tese que não pode ser testada: toda vitória e toda derrota "confirmam". Vira o assunto principal de comunidades pagas de "preparação psicológica". |
+| **"Fraude na urna"** | A eleição de 2026 teria sido fraudada. | Nenhuma prova apresentada. O próprio partido do candidato derrotado reconheceu o resultado. A mesma urna elegeu muitos senadores e governadores de oposição. |
+| **"O Paraguai foi o laboratório"** (Capítulo XI) | O próximo "corralito digital" seria no Brasil. | Sem evidência. O medo alimenta a venda de ouro e de "kits de dinheiro vivo" entre brasileiros nos EUA. |
+| **"Deepfake do exílio"** | Em 2029, um vídeo gerado por IA mostra um líder exilado "anunciando a volta com tropas". | Desmentido em horas, mas compartilhado por milhões. É o primeiro grande caso de deepfake político brasileiro com origem no exterior. |
+
+### 6. 2029: a volta como pergunta
+
+Em 2029, a pergunta muda de "quando eles voltam?" para **"eles voltam?"**.
+
+- Quem está no exílio com processos pendentes no Brasil sabe que voltar significa enfrentar a Justiça.
+- Quem ficou no Brasil e construiu liderança própria não tem interesse em devolver o espaço.
+- A eleição presidencial americana de 2028 tornou o status dos exilados menos previsível, qualquer que fosse o vencedor. O asilo continua, mas o acesso político diminui.
+
+O exílio deixa de ser estratégia e vira **condição**. Os encontros em Doral ficam menores. O estúdio passa a gravar mais conteúdo sobre "como empreender nos EUA" do que sobre política brasileira.
+
+### 7. A ligação com o resto do cenário
+
+- **Migração europeia (cenário principal):** enquanto famílias brasileiras de classe média vão para a Flórida, famílias europeias chegam ao Sul do Brasil. Em 2029, uma reportagem mostra os dois movimentos em paralelo: *"O Brasil que sai e o Brasil que chega"*.
+- **Geopolítica (Capítulo IX e cenário principal):** o Brasil reeleito não rompe com os EUA nem se entrega à China. Joga com os dois, mais por necessidade do que por planejamento. Os exilados perdem relevância justamente porque Washington precisa do governo de Brasília.
+- **Paraguai (Capítulo XI):** a crise bancária vizinha vira argumento dos dois lados. Para o governo, mostra o perigo da desregulação. Para a oposição no exílio, é a prova de que "o próximo é o Brasil".
+
+### 8. 2030: o fim de um ciclo
+
+Lula termina o quarto mandato **sem poder disputar a reeleição**. A eleição de 2030 é a primeira, desde 1989, sem Lula nem Bolsonaro na urna.
+
+O capítulo fecha **antes do resultado**, por escolha. Em outubro de 2030, o retrato é este:
+
+- O governo tem um candidato próprio e a máquina, mas sem o carisma pessoal que segurou o campo por 30 anos.
+- A oposição tem votos, mas está dividida entre quem ficou e quem foi.
+- Em Miami, a live da noite da apuração tem 40 mil pessoas, um décimo da audiência de 2026.
+
+Num restaurante em Pompano Beach, o relógio com o horário de "Brasília livre" foi retirado da parede. No lugar, há uma televisão ligada num canal brasileiro, sem som.
+
+### Âncoras reais do Capítulo XII
+
+| Elemento | Status |
+|---|---|
+| Lula reeleito em 25/10/2026 para mandato até 2030 | **Noticiado**, com números de uma única fonte. Confirmação oficial pendente. |
+| Flávio Bolsonaro nos EUA, declarando que lideraria a oposição de lá | **Noticiado**. As datas da saída divergem. |
+| Alegação de fraude sem provas; PL reconhecendo o resultado | **Noticiado / citado** |
+| Eduardo Bolsonaro vivendo nos EUA desde 2025 | **Real** |
+| Grande comunidade brasileira no sul da Flórida | **Real** |
+| Constituição: presidente não pode exercer terceiro mandato consecutivo | **Real.** Lula não pode concorrer em 2030. |
+| Midterms americanos em 3/11/2026 | **Real** (calendário). O resultado não foi incorporado. |
+| "Pequena Brasília", escritório em Doral, deepfake de 2029, Congresso americano dividido, fim de ciclo de 2030 | **Ficção do cenário** |
