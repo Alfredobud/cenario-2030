@@ -546,9 +546,10 @@ O sul da Flórida já tinha uma das maiores comunidades brasileiras dos EUA, em 
 
 ### 3. 2027–2028: o efeito dos midterms
 
-O cenário trabalha com um **Congresso americano dividido** depois de novembro de 2026. As consequências chegam à Flórida:
+Os **democratas vencem os midterms** de novembro de 2026 (dado real, ver as âncoras). A partir de janeiro de 2027, Trump governa com um Congresso hostil, e as consequências chegam à Flórida:
 
-- Projetos de lei sobre "perseguição política no Brasil" param nas comissões.
+- Projetos de lei sobre "perseguição política no Brasil" param nas comissões. Os democratas os veem como interferência na eleição brasileira.
+- Comissões democratas abrem audiências sobre **o papel do governo americano na saída de Flávio do Brasil**, a suposta "extração". Ninguém do governo comparece, mas o tema rende manchetes por semanas.
 - Audiências públicas sobre o Brasil passam a ter os dois lados: exilados e representantes do governo Lula.
 - O status migratório dos exilados continua garantido, mas **vira tema de campanha** para 2028. Um lado promete "proteger os perseguidos", o outro fala em "rever asilos políticos de conveniência".
 
@@ -614,8 +615,8 @@ Num restaurante em Pompano Beach, o relógio com o horário de "Brasília livre"
 | Eduardo Bolsonaro vivendo nos EUA desde 2025 | **Real** |
 | Grande comunidade brasileira no sul da Flórida | **Real** |
 | Constituição: presidente não pode exercer terceiro mandato consecutivo | **Real.** Lula não pode concorrer em 2030. |
-| Midterms americanos em 3/11/2026 | **Real** (calendário). O resultado não foi incorporado. |
-| "Pequena Brasília", escritório em Doral, deepfake de 2029, Congresso americano dividido, fim de ciclo de 2030 | **Ficção do cenário** |
+| Midterms americanos em 3/11/2026, com **vitória democrata** | **Real** (informado pelo autor do projeto em 5/11/2026; detalhes por casa a confirmar em fonte oficial) |
+| "Pequena Brasília", escritório em Doral, deepfake de 2029, audiências democratas sobre a "extração", fim de ciclo de 2030 | **Ficção do cenário** |
 
 ---
 

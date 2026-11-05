@@ -30,10 +30,10 @@
 - Polarização: Mélenchon × Le Pen na França, a AfD forte na Alemanha.
 
 ### Os EUA
-- **Guerra com o Irã** desde o início de 2026, com o Estreito de Ormuz sob ameaça, diesel caro e alegações de grandes perdas americanas.
+- **Guerra com o Irã** desde 28/02/2026, **ainda em curso em novembro**, com o Estreito de Ormuz sob ameaça, diesel caro e alegações de grandes perdas americanas. O Irã apresenta uma lista de **sete exigências** para encerrar a guerra, e os EUA a recusam.
 - **Venezuela** sob tutela americana desde a captura de Maduro, em janeiro de 2026.
 - A **Estratégia de Segurança Nacional** do fim de 2025 retoma a Doutrina Monroe (o "Corolário Trump").
-- Midterms em **3 de novembro de 2026**, com risco de os republicanos perderem o Congresso.
+- Midterms em **3 de novembro de 2026**: **os democratas vencem**. A partir de janeiro de 2027, Trump governa com um Congresso hostil.
 - Arquivos de OVNIs liberados em levas. Na sétima, sai o relatório do Rancho Skinwalker (Capítulo VIII).
 
 ### O Brasil
@@ -236,5 +236,7 @@ Anke desliga a TV e pergunta a Klaus: *"Quem escolheu essa pergunta?"*
 ### Atualização: lacunas pesquisadas
 As lacunas acima foram pesquisadas em novembro de 2026. Os resultados estão em `base-de-dados/` (ver a seção "Lacunas pesquisadas" em `base-de-dados/README.md`). Correções já aplicadas a este livro: o número de europeus na Rússia (de cerca de 100 mil para 5 a 15 mil), o de brasileiros que voltam da Europa (de mais de 700 mil para 150 a 250 mil), a nova lei portuguesa (cap. 2), a lei de terras e a decisão do STF (cap. 5), os dados da OIM (cap. 9) e o pomerano em Pomerode (cap. 6).
 
-**Ainda em aberto:** o resultado dos midterms, a data real do fim (ou não) da guerra com o Irã, a revalidação específica de enfermagem, um depoimento europeu direto e a imigração europeia para a Patagônia.
+**Atualizado em 5/11/2026:** os democratas venceram os midterms, e a guerra com o Irã **não terminou**: o Irã pede sete itens e os EUA recusam.
+
+**Ainda em aberto:** a composição exata de cada casa do Congresso, o conteúdo das sete exigências iranianas, a revalidação específica de enfermagem, um depoimento europeu direto e a imigração europeia para a Patagônia.
 

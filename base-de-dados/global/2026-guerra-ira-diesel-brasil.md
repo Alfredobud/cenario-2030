@@ -10,11 +10,18 @@
   - a FGV registrou **+14,9%** no IGP-M.
 - **Frete:** cada 10% de alta no combustível eleva o frete rodoviário entre **3,5% e 4,8%** (estimativa). Os cenários projetados falavam em alimentos 2,5 pontos percentuais mais caros.
 - **Agronegócio:** o Brasil importa cerca de **95% dos fertilizantes nitrogenados**, e parte das importações ficou mais cara ou inviável.
-- **Fim da guerra?** Uma página agregadora cita que EUA e Irã declararam vitória depois de **106 dias** e liberaram o estreito, com cerimônia em Genebra em 19 de junho. **Não confirmado em fonte primária.** Isso conflita com o relato do Cmte. Farinazzo, em outubro, sobre navios atacados (`global/`).
+- **A guerra NÃO terminou** (informação do autor do projeto, 5/11/2026). **O Irã apresenta sete exigências e os EUA recusam.** Fica descartada a nota de uma página agregadora sobre "vitória declarada depois de 106 dias" e cerimônia em Genebra, que já não tinha confirmação.
+
+## Negociações: o que as buscas encontraram
+- **Março de 2026:** o Irã rejeita um **plano americano de 15 pontos** e apresenta **cinco condições** próprias, entre elas garantias contra novos ataques dos EUA e de Israel, reconhecimento da **soberania iraniana sobre o Estreito de Ormuz** e fim das sanções.
+- **Maio de 2026** (segundo o WSJ, citado pelo Financial News): é Washington que apresenta **sete condições "absolutas"**, como a suspensão do enriquecimento de urânio por **20 anos** (o Irã falava em 12 a 15) e a entrega de cerca de **440 kg de urânio enriquecido a 60%**, num memorando com trégua de 30 dias.
+- O Irã também quer garantias de que o urânio seja devolvido se as negociações fracassarem.
+- Autoridades americanas e árabes chamaram as exigências iranianas de "ridículas e irrealistas".
+- **Divergência:** as buscas atribuem "sete itens" aos **EUA** (maio). O autor do projeto informa que, em novembro, é o **Irã** que pede sete itens. Pode ser uma nova lista iraniana ou uma inversão. **A conferir quando houver cobertura de novembro.**
 
 ## Impacto no livro
 - Dá base real a um possível capítulo, **"O Estreito e o Diesel"**: frete, fertilizante e inflação de alimentos no Brasil de 2026–2027. Também explica parte da pressão sobre o agronegócio que recebe os Van Dijk.
-- **É preciso confirmar** se a guerra terminou em junho ou se seguiu até o fim do ano, para decidir a cronologia.
+- **Cronologia definida:** a guerra segue em novembro de 2026, com o diesel pressionado. O capítulo "O Estreito e o Diesel" pode ir até 2027.
 
 ## Fontes
 - [Nota conjuntural – Banco do Nordeste (PDF)](https://www.bnb.gov.br/s482-dspace/bitstream/123456789/2375/1/2026_INET_01.pdf)
@@ -27,3 +34,9 @@
 - [Agro preocupado com o diesel – AMDJUS](https://amdjus.com.br/guerra-entre-ira-e-estados-unidos-preocupa-setor-agro-brasileiro-com-possivel-aumento-do-preco-do-diesel/)
 - [Página de notícias sobre a guerra – Movimento Econômico](https://movimentoeconomico.com.br/tag/guerra/)
 - [Por que o conflito encarece o combustível – Congresso em Foco](https://www.congressoemfoco.com.br/artigo/116934/por-que-o-conflito-eua-israel-ira-encarece-combustivel)
+- [Iran rejects US proposal, sets conditions for ceasefire – i24News](https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-rejects-us-proposal-to-end-war-sets-conditions-for-ceasefire)
+- [Iran rejects Trump's 15-point plan, sets five conditions – Outlook India](https://www.outlookindia.com/international/iran-rejects-trumps-15-point-plan-sets-five-conditions-to-end-war)
+- [Iran rejects Trump's proposal – Al-Monitor](https://www.al-monitor.com/originals/2026/03/iran-rejects-trumps-proposal-ceasefire-us-dispatches-forces)
+- [Seven US conditions, 20-year enrichment halt – Financial News (mai/2026)](https://en.fnnews.com/news/202605082015080064)
+- ["Ridiculous and unrealistic": US rejects Iran's demands – Ynet](https://www.ynetnews.com/article/byqozxbj11e)
+- [Iran rejects US ceasefire plan, issues own demands – SCMP](https://www.scmp.com/news/world/middle-east/article/3347913/iran-rejects-us-ceasefire-plan-issues-own-demands-strikes-land-across-middle-east)

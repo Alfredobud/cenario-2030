@@ -26,9 +26,9 @@ Material bruto e fichamentos de fontes (vídeos, lives, artigos, documentos) usa
 | 2 | Portugal: nova lei de nacionalidade e retorno de brasileiros | [`portugal/2026-nacionalidade-e-retorno-brasileiros.md`](portugal/2026-nacionalidade-e-retorno-brasileiros.md) | Respondida |
 | 3 | Regras brasileiras: naturalização e diplomas | [`brasil/regras-imigracao-naturalizacao-diplomas.md`](brasil/regras-imigracao-naturalizacao-diplomas.md) | Respondida, exceto a revalidação específica de enfermagem |
 | 4 | Terra rural para estrangeiros | [`brasil/terras-estrangeiros-stf-2026.md`](brasil/terras-estrangeiros-stf-2026.md) | Respondida (decisão do STF de 23/04/2026) |
-| 5 | Midterms americanos | [`eua/2026-midterms.md`](eua/2026-midterms.md) | **Em aberto**: só previsões |
+| 5 | Midterms americanos | [`eua/2026-midterms.md`](eua/2026-midterms.md) | Respondida: **vitória democrata** (informada pelo autor em 5/11; composição por casa a confirmar) |
 | 6 | Menonitas e Pomerode | [`comunidades/menonitas-paraguai-e-pomerode.md`](comunidades/menonitas-paraguai-e-pomerode.md) | Respondida |
-| 7 | Guerra com o Irã e o diesel | [`global/2026-guerra-ira-diesel-brasil.md`](global/2026-guerra-ira-diesel-brasil.md) | Respondida, com o fim da guerra **não confirmado** |
+| 7 | Guerra com o Irã e o diesel | [`global/2026-guerra-ira-diesel-brasil.md`](global/2026-guerra-ira-diesel-brasil.md) | Respondida: a guerra **continua**; o Irã pede 7 itens e os EUA recusam (detalhes a confirmar) |
 | 8 | Fonte europeia direta | [`europa/2025-emigracao-alemaes-destatis.md`](europa/2025-emigracao-alemaes-destatis.md) | Parcial: dados do Destatis, ainda sem depoimento |
 | 9 | Deepfakes e IA nas eleições | [`brasil/2026-deepfakes-eleicoes-tse.md`](brasil/2026-deepfakes-eleicoes-tse.md) | Respondida |
 | 10 | Argentina | [`argentina/2026-migracao-milei.md`](argentina/2026-migracao-milei.md) | Parcial: o decreto foi encontrado; Patagônia e maioridade penal não |
