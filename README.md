@@ -9,7 +9,7 @@ Exercício de **ficção especulativa** sobre um futuro possível em 2030: crise
 | Arquivo | O que é |
 |---|---|
 | [`01-cenario-2030.md`](01-cenario-2030.md) | Cenário principal: "A Grande Travessia ao Contrário" (2027–2030) |
-| [`02-ponto-extra-conspiracao.md`](02-ponto-extra-conspiracao.md) | Ponto Extra: capítulos I a VII sobre teorias da conspiração |
+| [`02-ponto-extra-conspiracao.md`](02-ponto-extra-conspiracao.md) | Ponto Extra: capítulos I a VIII sobre teorias da conspiração |
 | [`03-fontes-e-notas.md`](03-fontes-e-notas.md) | Fontes consultadas, notas de pesquisa e checagem das âncoras |
 
 ## Material de base

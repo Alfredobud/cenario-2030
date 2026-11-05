@@ -87,6 +87,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | Declínio dos EUA | "Derrota secreta na Highjump desde 1947" |
 | Crise da UE | "Filhas de Hitler no poder" |
 | Rússia recebe europeus tradicionalistas | "Moscou tem os mapas dos U-boats" (ver Capítulo VII) |
+| EUA liberam arquivos de OVNIs em levas | "Liberam no meio do ruído para ninguém ler" (ver Capítulo VIII) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -176,3 +177,77 @@ Num café em Pomerode, um engenheiro alemão aposentado, que chegou ao Brasil em
 | Expedição Norueguesa-Britânica-Sueca (1949–52) na mesma região, sem achar nenhuma base | **Real** |
 | Mito da base nazista lançado em 1947 por Ladislas Szabo, na Argentina | **Real** |
 | "Base 211", "Neu-Berlin", "Coronel Wolf", o vazamento de 2029 e a glaciologista norueguesa | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra VIII: O Portal e o Arquivo (2026–2030)
+
+### 1. O ponto de partida real
+
+Em **23 de outubro de 2026**, o Departamento de Guerra dos EUA publicou a **sétima leva** de arquivos sobre fenômenos aéreos não identificados: 28 documentos, só em PDF. Entre eles estava o documento 174, ***Utah Ranch Investigation***, um relatório de cerca de 60 páginas da **BAASS** (Bigelow Aerospace Advanced Space Studies), empresa contratada pelo programa **AAWSAP** da Agência de Inteligência de Defesa (DIA).
+
+O relatório descreve as visitas de março e abril de 2010 a uma propriedade perto de Fort Duchesne, em Utah, cujo nome aparece tarjado. Ela é amplamente identificada como o **Rancho Skinwalker**. O documento traz mais de 25 entrevistas com moradores, policiais e membros de comunidades indígenas, relatos de criaturas parecidas com lobos que andariam em duas pernas, de esferas de luz vermelha e de uma "mulher que flutuava", além da instalação de **sete câmeras**.
+
+O relatório **não apresenta imagens conclusivas** nem análises laboratoriais finais. O governo confirmou que a investigação existiu. Não confirmou que os fenômenos existem.
+
+### 2. Como o documento vira outra coisa
+
+Em menos de uma semana, a leitura popular no Brasil transformou o documento em prova de que "era tudo real". Uma live típica daquele outubro seguia este roteiro:
+
+- *"O governo confirmou."* (Confirmou a investigação, não as criaturas.)
+- *"Bigelow era uma empresa de fachada do Pentágono."* (Era uma empresa contratada, com contrato público de cerca de US$ 22 milhões entre 2008 e 2010.)
+- *"Eles esconderam a compra de 1996 até 2010."* (A propriedade do instituto de Bigelow era pública desde os anos 1990 e virou livro em 2005.)
+- *"Liberaram só PDF e no meio de outros 27 arquivos para ninguém ler. O cão é muito bem articulado."*
+- *"É um portal aberto por um ritual navajo contra os utes."*
+
+A pergunta que ninguém fez no ar: se o governo quisesse esconder o relatório, por que o publicaria?
+
+### 3. 2027–2028: a economia das "levas"
+
+No cenário, as levas mensais de arquivos viram um calendário de conteúdo. Cada nova leva gera:
+
+- lives com dezenas de milhares de pessoas ao vivo no mesmo dia;
+- cortes de 60 segundos com os trechos mais assustadores, sem o contexto ("nenhuma evidência conclusiva");
+- links para cursos, músicas com "frequências" e produtos.
+
+O dono do rancho, que comprou a propriedade de Bigelow em 2016, chama cada leva de "um passo na direção certa", e o turismo na região dispara.
+
+### 4. O efeito Brasil: "e Varginha?"
+
+A pressão chega ao Brasil. Se os EUA abrem arquivos, por que o Brasil não abre os seus? O **Caso Varginha** (1996), a **Noite Oficial dos OVNIs** (1986) e a **Operação Prato** (1977) voltam às manchetes.
+
+Em 2028, um deputado apresenta o "Projeto de Lei da Revelação". A FAB responde que boa parte do material já está no **Arquivo Nacional** desde os anos 2000. A resposta é verdadeira, mas ninguém a compartilha.
+
+### 5. O "Rancho Skinwalker brasileiro"
+
+Em 2029, no meio da onda de europeus comprando terras no Sul, surge uma história nova. Uma família holandesa compra uma fazenda isolada no Planalto Serrano catarinense, e um vizinho grava luzes no pasto à noite. Em uma semana, a fazenda vira "o Skinwalker do Brasil".
+
+Os fios das teorias se juntam:
+
+- os teóricos da "Rota Bariloche" (Capítulo II) dizem que os holandeses "sabiam o que estavam comprando";
+- os do "portal" dizem que a terra era sagrada para os povos originários da região;
+- os dos "Mapas de Moscou" (Capítulo VII) dizem que há um "túnel" ligando o Sul do Brasil à Antártida.
+
+A família recebe drones, invasores noturnos e ameaças. Em 2030, vende a fazenda por um terço do valor e se muda para Curitiba. Ninguém descobre o que eram as luzes. A hipótese mais provável, a de um vizinho com um drone de pulverização agrícola, nunca viraliza.
+
+### 6. Epílogo do capítulo
+
+Em 2030, a revelação oficial e a conspiração convivem sem se contradizer. Cada documento liberado é lido como confirmação, e cada lacuna é lida como acobertamento. O próprio relatório do rancho termina recomendando "novas medições". É a frase mais honesta de todo o caso, e a única que nenhum corte de 60 segundos reproduz.
+
+### Âncoras reais do Capítulo VIII
+
+| Elemento | Status |
+|---|---|
+| Sétima leva de arquivos UAP do Departamento de Guerra (23/10/2026, 28 arquivos) | **Real** |
+| Relatório *Utah Ranch Investigation* da BAASS, visitas em mar–abr/2010, mais de 25 entrevistas, sete câmeras | **Real**, segundo a cobertura da imprensa |
+| Relatório sem imagens conclusivas e sem confirmação dos fenômenos | **Real**, segundo a cobertura |
+| Bigelow comprou o rancho em 1996 (cerca de US$ 200 mil) e vendeu em 2016 para Brandon Fugal | **Real** |
+| Contrato AAWSAP da DIA com a BAASS (cerca de US$ 22 milhões, 2008–2010) | **Real**. A DIA faz parte do Departamento de Defesa, então não houve "primeiro a DIA, depois o Pentágono". |
+| Compra de 1996 "escondida até 2010" | **Falso.** A posse do instituto de Bigelow era pública e foi tema do livro *Hunt for the Skinwalker* (2005). |
+| "Pentágono autorizou qualquer experimento, independentemente das consequências" | **Sem confirmação** na cobertura do documento |
+| Empresa "Zeta Reticuli Inc." com Bigelow e Lazar | **Não verificado** |
+| Picos de "1210 a 1238 µHz" e "plantas geneticamente modificadas" | **Não verificado.** Constam da live, não da cobertura consultada. |
+| Lenda navajo do skinwalker; Utah tem nome derivado do povo ute | **Real** (folclore e etimologia) |
+| "Maldição navajo contra os utes" como origem das anomalias | **Folclore** popularizado por livros sobre o rancho |
+| Arquivos brasileiros de OVNIs no Arquivo Nacional | **Real** |
+| Fazenda catarinense, família holandesa e PL da Revelação | **Ficção do cenário** |

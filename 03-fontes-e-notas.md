@@ -32,3 +32,16 @@ Veredito da pesquisa: **não há evidência verificável** de que os mapas atrib
 - [Rumor da base nazista de OVNIs na Antártida – Gigazine](https://gigazine.net/gsc_news/en/20170316-fake-news-about-antarctica-nazi-ufo-base)
 - [In search of the frozen menace – World of Weird Things](https://worldofweirdthings.com/2017/03/13/in-search-of-the-frozen-menace-at-the-bottom-of-the-world)
 - [Blog citando arquivos SMERSH (fonte fraca, sem verificação)](https://kaoheoae.blogspot.com/2012)
+
+## Rancho Skinwalker e a sétima leva de arquivos UAP (Capítulo VIII)
+
+Base: transcrição de uma live do canal de Carol Capel (28/10/2026). O documento 174 em si não foi lido; a checagem usa a cobertura da imprensa.
+
+- [US Department of War releases seventh batch of UAP documents – The News](https://thenews.com.pk/latest/1421048-us-department-of-war-releases-seventh-batch-of-uap-documents-what-to-know)
+- [Skinwalker Ranch owner calls Pentagon UAP file release "step in the right direction" – KSL](https://www.ksl.com:443/article/news/utah/science-and-tech/skinwalker-ranch-owner-calls-pentagon-uap-file-release-step-in-the-right-direction/51495405)
+- [Skinwalker Ranch owner weighs in on Pentagon UAP file release – KSL](https://www.ksl.com/article/news/utah/skinwalker-ranch-owner-weighs-in-on-pentagon-uap-file-release/51591685)
+- [Declassified US defence files reveal encounters with alleged skinwalkers – IBTimes UK](https://www.ibtimes.co.uk/declassified-us-defence-files-reveal-chilling-encounters-alleged-skinwalkers-utah-ranch-1828283)
+- [Newly-Released Pentagon UFO Files Contain Witness Drawings Of Alleged Skinwalkers – BroBible](https://brobible.com/culture/article/pentagon-ufo-files-witness-drawings-skinwalkers-utah/)
+- [New UFO files show bizarre drawings – Newsweek](https://newsweek.com/new-ufo-files-released-show-bizarre-drawings-of-alleged-aliens-12611389)
+- [DIA paid $22 million to chase UFOs and werewolves – The Debrief](https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/)
+- [Pentagon releases 1500 pages of UFO documents – Metabunk](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)
