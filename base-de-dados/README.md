@@ -12,3 +12,4 @@ Material bruto e fichamentos de fontes (vídeos, lives, artigos, documentos) usa
 | Pasta | Tema | Arquivos |
 |---|---|---|
 | [`europa/`](europa/) | Crise europeia: economia, demografia, imigração, política | [`2026-10-video-crise-europa.md`](europa/2026-10-video-crise-europa.md) |
+| [`eua/`](eua/) | EUA e disputa pelo Brasil depois da eleição de 2026 (midterms, Trump, China, oposição no exílio) | [`2026-10-27-live-fala-global-prof-vale.md`](eua/2026-10-27-live-fala-global-prof-vale.md) |
