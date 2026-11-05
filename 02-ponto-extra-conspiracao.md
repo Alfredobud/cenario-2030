@@ -92,6 +92,7 @@ Em 2030, os mitos funcionam como um **sistema operacional paralelo** da geopolí
 | Real forte leva famílias brasileiras a Orlando | "Sequestros na Disney que ninguém noticia" (ver Capítulo X) |
 | Quebra do Ueno Bank e renúncia de Peña no Paraguai | "O Paraguai foi o laboratório do corralito digital" (ver Capítulo XI) |
 | Reeleição de Lula e oposição nos EUA | "Extração", "poder real" e "fraude na urna" (ver Capítulo XII) |
+| Debate real sobre segurança, IA militar e dependência | "As máquinas já decidem quem morre" (ver Capítulo XIII) |
 
 A revelação prometida nunca acontece. As teorias mudaram mesmo assim decisões reais: onde as famílias compram terra, em quem votam e de quem desconfiam. A conclusão do cenário é que a conspiração não precisa ser verdadeira para ter consequências.
 
@@ -612,3 +613,73 @@ Num restaurante em Pompano Beach, o relógio com o horário de "Brasília livre"
 | Constituição: presidente não pode exercer terceiro mandato consecutivo | **Real.** Lula não pode concorrer em 2030. |
 | Midterms americanos em 3/11/2026 | **Real** (calendário). O resultado não foi incorporado. |
 | "Pequena Brasília", escritório em Doral, deepfake de 2029, Congresso americano dividido, fim de ciclo de 2030 | **Ficção do cenário** |
+
+---
+
+## Capítulo Extra XIII: O Simpósio de Brasília (fim de 2026 → 2030)
+
+*Este capítulo muda de registro. Os anteriores mostram como mitos circulam. Este parte de um **evento real e técnico**, o 1º Simpósio de Geopolítica, Segurança e Conflitos, organizado pelo GESEC (presidido por Robinson Farinazzo, do canal Arte da Guerra) com a ADEPOL, em Brasília, e projeta o que pode sair dele até 2030. Ele serve de contraponto: aqui os riscos são reais, documentados e discutidos em público. Fichamento completo em `base-de-dados/brasil/2026-simposio-gesec-adepol.md`.*
+
+### 1. A sala (fato)
+
+Numa mesma manhã, no mesmo auditório, falaram:
+
+- o presidente da Frente Parlamentar de Segurança Pública, a "bancada da bala", comemorando **60 profissionais de segurança eleitos deputados**;
+- delegados denunciando salários baixos, adoecimento mental e um Estado "sequestrado" por **dezenas de facções**;
+- duas diplomatas do Itamaraty explicando por que o Brasil lidera, há uma década, a tentativa de **proibir e regular armas que escolhem e atacam alvos sozinhas**;
+- um jornalista de esquerda defendendo que a América Latina só sai da pobreza rompendo a **dependência** dos EUA, e que isso é também uma questão de segurança pública.
+
+O que os une é uma preocupação comum: **a capacidade do Brasil de proteger a própria população e decidir o próprio futuro.** O que os separa é quase todo o resto.
+
+### 2. Três frentes que o simpósio abriu (fato → projeção)
+
+#### Frente 1: Brasília × estados
+**Fato:** a PEC 18 (PEC da Segurança Pública) avançou depois de um acordo entre partidos que retirou do texto o poder da União de ditar a política de segurança aos estados.
+
+**Projeção (ficção):** em 2027, com Lula reeleito (Capítulo XII) e a bancada da segurança maior que muitos partidos, a disputa federal × estados vira o principal conflito político do país. O governo quer padrões nacionais, no modelo do SUS. Os governadores e a bancada querem autonomia e mais recursos. As guardas municipais viram moeda de troca: prefeitos de cidades grandes pedem poder de polícia, e o Congresso exige acreditação para as menores.
+
+#### Frente 2: o robô que escolhe o alvo
+**Fato:** em agosto e setembro de 2026, o grupo da ONU sobre armas autônomas adotou por consenso um texto-base, com lacunas, e a Conferência de Exame da CCW de novembro decide se começa a negociação de um tratado. O Brasil, com mais de 70 países, quer negociar já. As potências tecnológicas resistem.
+
+**Projeção (ficção):** a conferência termina em impasse. Em 2028, o Brasil, a Áustria e o grupo africano levam o tema à Assembleia Geral da ONU e abrem uma negociação paralela, fora da regra do consenso, como já aconteceu com outros tratados de desarmamento. Os EUA, a China e a Rússia não participam.
+
+Enquanto isso, **no Brasil**, o problema chega antes por outro caminho. Em 2028, uma facção usa um drone com reconhecimento facial para atacar um rival dentro de um presídio. Não é uma arma autônoma no sentido técnico, porque um operador aprovou o ataque, mas a manchete diz que é. O debate da CCW, que parecia distante, vira pauta de segurança pública. A frase do moderador do simpósio, de que "as organizações criminosas já estão de posse disso", é lembrada nos jornais.
+
+#### Frente 3: depender ou não depender
+**Fato:** a Estratégia de Segurança Nacional dos EUA de 2025 retomou a Doutrina Monroe com o "Corolário Trump". No simpósio, Breno Altman chamou isso de tentativa de reconduzir a América Latina ao papel de fornecedora de matérias-primas, grãos e proteína.
+
+**Projeção (ficção):** o diagnóstico de Altman, à esquerda, e o do Prof. Vale, que pela direita disse que o Brasil "não joga, se alinha" (Capítulo XII), convergem sem que os dois lados admitam. Em 2029, um grupo de trabalho improvável, formado por militares da reserva, diplomatas, acadêmicos e parlamentares de campos opostos, publica um documento chamado **"Brasil 2050: autonomia estratégica"**. As propostas são poucas e concretas:
+- uma política industrial de defesa de 20 anos;
+- um sistema próprio de reforço de navegação por satélite, lição do apagão do Capítulo IX;
+- uma lei nacional sobre IA militar, alinhada à posição do Brasil na CCW;
+- uma carreira policial com formação superior em todo o país.
+
+O documento é elogiado por todos e não é aplicado por ninguém antes de 2030.
+
+### 3. E as teorias da conspiração?
+
+O simpósio tem um efeito curioso sobre as narrativas dos capítulos anteriores:
+
+- Os canais do **"poder real"** e das **"facções globais de IA"** (Capítulo XII) usam trechos da palestra do Itamaraty como "prova" de que "as máquinas já decidem quem morre". Cortam a parte em que as diplomatas explicam que o Brasil luta justamente para impedir isso.
+- O reconhecimento de que facções usam drones vira, nos grupos de WhatsApp, a história de que *"o crime tem robôs assassinos"*. Isso alimenta a venda de "drones antidrone" para condomínios.
+- Ao mesmo tempo, quem assiste ao simpósio inteiro encontra o oposto da conspiração: problemas reais, discutidos em público, com nomes, números e divergências. Não há segredo, há **falta de execução**.
+
+### 4. Epílogo do capítulo
+
+Em 2030, a frase mais citada do simpósio não é de nenhum painelista. É de um delegado, no fim do painel de segurança, comparando a polícia a um goleiro: *"Quando tudo erra (a escola, a família, a saúde), a bola sobra pro goleiro. Mas o goleiro que se destaca é o que grita e orienta a defesa."*
+
+O Brasil de 2030 continua com o mesmo goleiro, agora com mais voz no Congresso. A defesa continua desorganizada.
+
+### Âncoras reais do Capítulo XIII
+
+| Elemento | Status |
+|---|---|
+| 1º Simpósio de Geopolítica, Segurança e Conflitos (GESEC + ADEPOL), em Brasília, com Farinazzo, Fraga, GSI, Itamaraty e Breno Altman | **Real** (transcrição do evento) |
+| PEC 18 aprovada na Câmara e avançando no Senado; disputa federal × estados no texto | **Real como relato** dos participantes. A verificar o trâmite. |
+| 60 profissionais de segurança eleitos deputados federais | **Dado do deputado Fraga**, a verificar |
+| Brasil na CCW: proposta de 2018 com Áustria e Chile, presidência do GGE em 2022–23, declaração de 2025, mais de 70 países a favor de negociar | **Real**, segundo as diplomatas do Itamaraty |
+| Texto-base adotado por consenso em agosto–setembro de 2026; Conferência de Exame em novembro de 2026 | **Real**, segundo o Itamaraty. O resultado não foi incorporado. |
+| Uso de sistemas com graus de autonomia na Líbia, na Ucrânia e em Gaza | **Real**, como citado pelo Itamaraty |
+| Projeto de lei de IA na Câmara proibindo IA em armas autônomas, com exceção para a defesa | **Real**, como citado pelo Itamaraty |
+| Estratégia de Segurança Nacional dos EUA de 2025 com "Corolário Trump" | **Real** (documento). As leituras são dos palestrantes. |
+| Impasse na CCW, negociação na Assembleia Geral, ataque com drone em presídio, documento "Brasil 2050" | **Ficção do cenário** |
